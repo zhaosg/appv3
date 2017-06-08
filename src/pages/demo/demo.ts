@@ -2,7 +2,6 @@ import {Component} from '@angular/core';
 import {AlertController, NavController} from 'ionic-angular';
 import {NativeService} from '../../service/native.service'
 import {ApiService} from '../../service/api.service'
-import {AppVersion} from '@ionic-native/app-version';
 import {GraphPage} from "../graph/graph";
 import {ChartPage} from "../chart/chart";
 
