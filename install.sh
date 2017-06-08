@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 npm install
-ionic platform remove android
-ionic platform add android
+ionic cordova platform remove android
+ionic cordova platform add android

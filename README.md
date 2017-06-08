@@ -17,16 +17,15 @@ ANDROID_HOME=D:\app\android-studio
 ### 下载 android sdk
 使用android studio，指定sdk存放位置为：D:\app\android\sdk，然后使用sdk管理器下载android sdk的各种包
 
-### 复制gradle模板
-复制 D:\app\android-studio\plugins\android\lib\templates 这个文件夹到 D:\app\android\sdk\tools
-否则会报找不到D:\app\android\sdk\tools\templates的错误
+### 安装gradle
+从官网下载，解压安装，然后将安装目录下的bin路径，加到环境变量path中
 
 ### 增加android平台
-ionic platform add android
+ionic cordova platform add android
 
 ### 测试
 命令行界面，输入下面的目录
-ionic build android --prod
+ionic cordova build android --prod
 
 ## 开发工具
 最好是使用vs code，因为插件比较全，智能提示也不错
