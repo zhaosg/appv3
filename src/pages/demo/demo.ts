@@ -12,14 +12,14 @@ import {ChartPage} from "../chart/chart";
 })
 export class DemoPage {
   items = [
-    {code: "barcode", label: "二维码/条形码"},
-    {code: "graph", label: "组态图"},
-    {code: "echarts", label: "图表"},
-    {code: "version", label: "显示版本号"},
-    {code: "paizhao", label: "拍照"},
-    {code: "storage", label: "存储"},
-    {code: "notify", label: "通知"},
-    {code: "people", label: "Http"}
+    {icon:'qr-scanner',code: "barcode", label: "二维码/条形码"},
+    {icon:'ionic',code: "graph", label: "组态图"},
+    {icon:'ionic',code: "echarts", label: "图表"},
+    {icon:'ionic',code: "version", label: "显示版本号"},
+    {icon:'camera',code: "paizhao", label: "拍照"},
+    {icon:'ionic',code: "storage", label: "存储"},
+    {icon:'ionic',code: "notify", label: "通知"},
+    {icon:'ionic',code: "people", label: "Http"}
   ];
 
   constructor(private alertCtrl: AlertController,
