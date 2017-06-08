@@ -1,0 +1,840 @@
+
+<svg width="1050" height="680" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+  <g class="layer">
+    <title>Layer 1</title>
+    <rect id="svg_76" height="13.333333" width="42.666667" y="113.333333" x="343.333333" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" stroke="#000000" fill="#003f7f"/>
+    <path d="m438.08884,97.02224c0,0 -0.22223,-27.55556 -0.75549,-28.02224c-0.53326,-0.46669 226.53329,-0.19998 225.99997,-0.66667c-0.53333,-0.46667 -0.13336,45.80002 -0.13336,45.80002" stroke-width="2" stroke="#666666" fill-opacity="0" fill="#ffffff" id="svg_447"/>
+    <path d="m191.2,96.96667c0,0 0.66701,-36.6667 0.133,-37.2333c-0.53299,-0.5667 537.86702,-0.1 537.86702,-0.1c0,0 1.33301,54.0003 1.33301,54.0003" stroke-width="2" stroke="#666666" fill-opacity="0" fill="#ffffff" id="svg_446"/>
+    <path d="m500.75882,98.72c0,0 0,-20.88666 -0.259,-20.88666c-0.25903,0 80.33881,0 80.07111,0c-0.2677,0 0.25903,40.16666 0.25903,40.16666" stroke-width="2" stroke="#666666" fill-opacity="0" fill="#ffffff" id="svg_448"/>
+    <line y2="174.5" x2="1017.23" y1="174.5" x1="991.616" stroke-width="2" stroke="#666666" fill-opacity="0" fill="none" id="svg_439"/>
+    <line y2="121.182" x2="980.326" y1="121.182" x1="928.605" stroke-width="2" stroke="#666666" fill-opacity="0" fill="none" id="svg_415"/>
+    <line y2="238.85" x2="983.608" y1="238.85" x1="931.94" stroke-width="2" stroke="#666666" fill-opacity="0" fill="none" id="svg_436"/>
+    <path d="m614.4375,451.57919l-0.4375,36.42081c0,0 140.33337,0.10004 140.33337,0.10004c-0.00006,-0.00003 -0.00006,-240.66669 -0.33337,-240.76671l149.75,-0.31665" stroke-width="2" stroke="#666666" fill-opacity="0" fill="#ffffff" id="svg_435"/>
+    <path d="m694.08301,451.16699c0.17798,11.52905 -0.17798,9.49585 0,9.75c0.17798,0.25415 54.65442,0 54.30884,0c-0.34656,0 0.34558,-334.66699 0,-334.66699c-0.34656,0 142.4317,1.083 147.27484,-0.25" stroke-width="2" stroke="#666666" fill-opacity="0" fill="#ffffff" id="svg_434"/>
+    <rect fill-opacity="0" height="37.3333" width="48.6667" y="414.665" x="668.332" stroke-width="2" stroke="#666666" fill="#000000" id="svg_433"/>
+    <path d="m708.88501,367c0,0 69.37744,1.68399 69.37744,1.68399c0,0 0,230.64932 -0.49915,230.64932l158.7356,-0.5" stroke-width="1.5" stroke="#007fff" fill-opacity="0" fill="#ffffff" id="svg_7"/>
+    <path d="m716.38501,361.5c0,0 66.02301,1.134 66.02301,1.134c0,0 0,155.366 -0.47504,155.366c-0.47498,0 145.34705,0.75 138.06604,0.25" stroke-width="1.5" stroke="#007fff" fill-opacity="0" fill="#ffffff" id="svg_6"/>
+    <path d="m729.38501,296.50003c0,0 61.9234,0.92749 61.9234,0.92749c0,0 0,127.07245 -0.44562,127.07245c-0.44562,0 138.21796,0.5 129.97021,0.5" stroke-width="1.5" stroke="#007fff" fill-opacity="0" fill="#ffffff" id="svg_3"/>
+    <path d="m740.88501,291c0,0 58.27081,0.42752 58.27081,0.42752c0,0 0,58.57248 -0.41937,58.57248c-0.41931,0 125.8985,-1 119.43005,-0.75" stroke-width="1.5" stroke="#007fff" fill-opacity="0" fill="#ffffff" id="svg_2"/>
+    <line y2="607.075" x2="1016.51" y1="607.075" x1="936" stroke-width="1.5" stroke="#007fff" fill-opacity="0" fill="none" id="svg_432"/>
+    <line y2="354.767" x2="1016.79" y1="354.767" x1="937.393" stroke-width="1.5" stroke="#007fff" fill-opacity="0" fill="none" id="svg_429"/>
+    <line y2="332.003" x2="494.953" y1="332.003" x1="569.667" stroke-width="1.5" stroke="#007fff" fill-opacity="0" fill="none" id="svg_428"/>
+    <line y2="381.5" x2="446.053" y1="381.5" x1="191.5" stroke-width="1.5" stroke="#007fff" fill-opacity="0" fill="none" id="svg_424"/>
+    <line y2="380.515" x2="421.5" y1="304" x1="421.5" stroke-width="1.5" stroke="#007fff" fill-opacity="0" fill="none" id="svg_425"/>
+    <rect height="43" width="297.166" y="419.5" x="199" stroke-width="1.5" stroke="#007fff" fill-opacity="0" fill="none" id="svg_423"/>
+    <line y2="496.117" x2="191.673" y1="496.117" x1="108.167" stroke-width="1.5" stroke="#007fff" fill-opacity="0" fill="none" id="svg_420"/>
+    <line y2="558.117" x2="191.704" y1="558.117" x1="106.667" stroke-width="1.5" stroke="#007fff" fill-opacity="0" fill="none" id="svg_421"/>
+    <line y2="619.117" x2="193.168" y1="619.117" x1="105.667" stroke-width="1.5" stroke="#007fff" fill-opacity="0" fill="none" id="svg_422"/>
+    <line y2="628.167" x2="74.2497" y1="628.167" x1="26.9667" stroke-width="1.5" stroke="#007fff" fill="none" id="svg_418"/>
+    <line y2="565.667" x2="74.7497" y1="565.667" x1="27.4667" stroke-width="1.5" stroke="#007fff" fill="none" id="svg_417"/>
+    <line y2="506.667" x2="73.7497" y1="506.667" x1="26.4667" stroke-width="1.5" stroke="#007fff" fill="none" id="svg_416"/>
+    <path d="m173.69084,109.92046c0,0 45.59261,0.49885 45.59261,0.49885c0,0 0,129.20294 0,129.20294c0,0 -12.78815,20.45297 -12.78815,20.45297c0,0 0,38.41171 -0.22235,37.98767c-0.22237,-0.42401 29.69075,-0.57367 29.46837,-0.99768c-0.22234,-0.42401 17.45859,16.88614 17.45859,16.88614c0,0 0,11.47363 0,11.47363c0,0 -17.79224,-15.46445 -17.79224,-15.46445c0,0 -53.37671,-0.49884 -53.37671,-0.49884c0,0 -0.556,-48.38876 -0.556,-48.38876c0,0 -13.34419,-20.95183 -13.56653,-21.37584c-0.22235,-0.42401 -3.30208,-130.07323 0,-129.99721c3.30206,0.076 5.78241,0.22058 5.78241,0.22058l0,-0.00001l0,0.00001z" stroke="#000000" fill="#666666" id="svg_18"/>
+    <path d="m479.36127,112.95164l0,129.71502l12.2749,21l0,55.5c0,0 -92.06155,0.78497 -92.06155,0.78497c0,0 -36.82468,28 -36.82468,28c0,0 0.76715,9 0.76715,9c0,0 32.22156,-23.25 35.29025,-25c3.06879,-1.75 113.54276,-1 113.54276,-1.28497c0,-0.28497 0,-67.71503 0,-67.71503c0,0 13.80939,-19.49998 13.80939,-19.78497c0,-0.28497 5.3703,-130.88168 2.04584,-131.21502c-3.32446,-0.33334 -48.84406,1 -48.84406,1z" stroke="#000000" fill="#666666" id="svg_21"/>
+    <path d="m416.19415,111.09998l-0.48798,129.40003c0,0 15.1275,21.59996 15.1275,21.59996c0,0 -0.8295,33.49994 -0.82947,32.59998c0.00003,-0.89996 -33.28055,0.19992 -37.67255,0.39999c-4.39206,0.20007 -22.00806,16.20007 -22.30087,14.50003c-0.29291,-1.70004 0.29272,16.5 -0.19519,16.23334c-0.48795,-0.26666 23.91119,-19.06668 23.42325,-19.33331c-0.48792,-0.26663 55.14233,-0.40002 55.14233,-0.40002c0,0 -1.95187,-44.88892 0.48813,-45.37778c2.43997,-0.48886 17.07938,-19.95555 17.07938,-19.95555c0,0 0.97595,-130.00002 0.48798,-130.26667c-0.48795,-0.26667 -48.79855,-1.40007 -50.26251,0.59993l0,0.00003l0,0.00002l0,0l0,0.00004l0,0l0,-0.00002l0,0.00002l0,-0.00001l0,-0.00001z" stroke="#000000" fill="#666666" id="svg_17"/>
+    <path d="m229.46669,110.19999c0,0 -2.33331,253.80001 -0.33334,258.92379c1.99997,5.12381 23,30.74286 22.66666,30.16217c-0.33334,-0.58066 125.66667,0.58069 125.66667,0.58069c0,0 20.83331,-26.13147 21.33331,-30.74292c0.5,-4.61142 1.33334,-258.24055 1.33334,-258.24055c0,0 -170.66664,-0.68322 -170.66664,-0.68322l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0.00001l0,0.00001l0,0.00001l0,0.00002l0,0.00001l0,-0.00002z" stroke="#000000" fill="#666666" id="svg_1"/>
+    <rect height="40" width="146" y="391.95" x="241.666" stroke="#000000" fill="#666666" id="svg_11"/>
+    <path d="m568.83398,111.10307c-0.00098,0 -0.68298,286.24879 -1.16699,286.24879c-0.48499,0 18.90503,22.31464 18.90503,22.31464c0,0 138.49597,0 138.49597,0c0,0 17.73901,-20.7756 17.73901,-20.7756c0,0 -0.68298,-288.55788 -0.68298,-288.55788c0,0 -173.29004,0.77006 -173.29004,0.77006l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0l0,-0.00001z" stroke="#000000" fill="#666666" id="svg_14"/>
+    <rect height="50" width="22" y="106.85" x="761" fill="#666666" id="svg_15" stroke="#000000"/>
+    <rect height="48" width="23" y="226.85" x="762" stroke="#000000" fill="#666666" id="svg_16"/>
+    <rect height="6" width="27.3333" y="103.333" x="178.34" stroke="#000000" fill="#666666" id="svg_19"/>
+    <rect height="9.33333" width="44" y="94" x="169.674" stroke="#000000" fill="#666666" id="svg_20"/>
+    <rect height="9.33333" width="28" y="101.333" x="429.508" stroke="#000000" fill="#666666" id="svg_22"/>
+    <rect height="9.33333" width="30.6667" y="102.3" x="492.174" stroke="#000000" fill="#666666" id="svg_23"/>
+    <rect height="9.33333" width="39.3334" y="91.9997" x="422.34" stroke="#000000" fill="#666666" id="svg_24"/>
+    <path d="m1019.96143,66.3c0,0 7.29163,0 7.29163,0c0,0 4.37476,109.9872 4.24841,109.7052c-0.12634,-0.282 -16.88708,0.282 -17.01343,0c-0.12634,-0.282 5.47339,-109.7052 5.47339,-109.7052z" stroke="#000000" fill="#999999" id="svg_26"/>
+    <rect height="22" width="96.5" y="543.45" x="207.187" stroke-width="0.3" stroke="#000000" fill="#999999" id="svg_27"/>
+    <rect height="22" width="99" y="541.45" x="498.187" stroke-width="0.3" stroke="#000000" fill="#999999" id="svg_28"/>
+    <rect height="22" width="100.5" y="541.45" x="637.187" stroke-width="0.3" stroke="#000000" fill="#999999" id="svg_31"/>
+    <rect height="22" width="103.5" y="542.45" x="344.187" stroke-width="0.3" stroke="#000000" fill="#999999" id="svg_32"/>
+    <rect height="22" width="96" y="587.45" x="208.187" stroke-width="0.3" stroke="#000000" fill="#999999" id="svg_33"/>
+    <rect height="22" width="98" y="585.45" x="499.187" stroke-width="0.3" stroke="#000000" fill="#999999" id="svg_34"/>
+    <rect height="22" width="102" y="585.45" x="637.187" stroke-width="0.3" stroke="#000000" fill="#999999" id="svg_35"/>
+    <rect height="22" width="102" y="587.45" x="346.187" stroke-width="0.3" stroke="#000000" fill="#999999" id="svg_36"/>
+    <rect height="27" width="61" y="155.2" x="53" stroke="#000000" fill="url(#svg_38)" id="svg_37"/>
+    <rect height="27" width="61" y="201.533" x="52.1667" stroke="#000000" fill="url(#svg_38)" id="svg_39"/>
+    <rect height="27" width="61" y="247.534" x="52.8333" stroke="#000000" fill="url(#svg_38)" id="svg_40"/>
+    <rect height="27" width="61" y="296.867" x="52.6667" stroke="#000000" fill="url(#svg_38)" id="svg_41"/>
+    <g id="svg_44">
+      <circle r="9.80621" cy="554.4" cx="220.167" stroke-width="0.3" stroke="#000000" fill="#cc2e2e" id="svg_42"/>
+      <text xml:space="preserve" y="558.4" x="220.6667" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_43">M</text>
+    </g>
+    <g id="svg_45">
+      <circle r="9.80621" cy="554.4" cx="356.833" stroke-width="0.3" stroke="#000000" fill="#cc2e2e" id="svg_46"/>
+      <text xml:space="preserve" y="558.4001" x="357.3333" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_47">M</text>
+    </g>
+    <g id="svg_48">
+      <circle r="9.80621" cy="599.066" cx="220.831" stroke-width="0.3" stroke="#000000" fill="#cc2e2e" id="svg_49"/>
+      <text xml:space="preserve" y="603.0669" x="221.3333" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_50">M</text>
+    </g>
+    <g id="svg_51">
+      <circle r="9.80621" cy="599.066" cx="358.831" stroke-width="0.3" stroke="#000000" fill="#cc2e2e" id="svg_52"/>
+      <text xml:space="preserve" y="603.0669" x="359.3335" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_53">M</text>
+    </g>
+    <g id="svg_54">
+      <circle r="9.8062" cy="553.066" cx="509.497" stroke-width="0.3" stroke="#000000" fill="#cc2e2e" id="svg_55"/>
+      <text xml:space="preserve" y="557.0669" x="510.0002" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_56">M</text>
+    </g>
+    <g id="svg_57">
+      <circle r="9.8062" cy="596.399" cx="510.83" stroke-width="0.3" stroke="#000000" fill="#cc2e2e" id="svg_58"/>
+      <text xml:space="preserve" y="600.4002" x="511.3335" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_59">M</text>
+    </g>
+    <g id="svg_60">
+      <circle r="9.80621" cy="553.732" cx="649.496" stroke-width="0.3" stroke="#000000" fill="#cc2e2e" id="svg_61"/>
+      <text xml:space="preserve" y="557.7335" x="650.0002" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_62">M</text>
+    </g>
+    <g id="svg_63">
+      <circle r="9.80621" cy="597.065" cx="648.163" stroke-width="0.3" stroke="#000000" fill="#cc2e2e" id="svg_64"/>
+      <text xml:space="preserve" y="601.0669" x="648.6669" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_65">M</text>
+    </g>
+    <rect height="22" width="23" y="159.2" x="61.9066" stroke="#000000" fill="#cccccc" id="svg_67"/>
+    <text xml:space="preserve" y="175.5336" x="72.5733" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="16" font-family="serif" id="svg_66" class="black">1</text>
+    <rect height="22" width="23" y="205.534" x="61.4067" stroke="#000000" fill="#cccccc" id="svg_68"/>
+    <text xml:space="preserve" y="222.2002" x="72.0733" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="15" font-family="serif" id="svg_72" class="black">2</text>
+    <rect height="22" width="23" y="249.202" x="60.0733" stroke="#000000" fill="#cccccc" id="svg_69"/>
+    <text xml:space="preserve" y="265.5336" x="72.0733" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="15" font-family="serif" id="svg_73" class="black">3</text>
+    <rect height="22" width="23" y="299.537" x="62.573" stroke="#000000" fill="#cccccc" id="svg_78"/>
+    <text xml:space="preserve" y="315.5339" x="73.9066" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="15" font-family="serif" id="svg_79" class="black">4</text>
+    <rect height="22" width="23" y="157.87" x="114.906" stroke="#000000" fill="#e5e5e5" id="svg_82"/>
+    <text xml:space="preserve" y="173.8672" x="128.2399" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="15" font-family="serif" id="svg_83" class="black">M</text>
+    <rect height="22" width="23" y="206.203" x="114.573" stroke="#000000" fill="#e5e5e5" id="svg_86"/>
+    <text xml:space="preserve" y="222.2005" x="127.9066" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="15" font-family="serif" id="svg_87" class="black">M</text>
+    <rect height="22" width="23" y="250.204" x="114.739" stroke="#000000" fill="#e5e5e5" id="svg_89"/>
+    <text xml:space="preserve" y="266.2006" x="128.0732" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="15" font-family="serif" id="svg_90" class="black">M</text>
+    <rect height="22" width="23" y="300.537" x="114.573" stroke="#000000" fill="#e5e5e5" id="svg_92"/>
+    <text xml:space="preserve" y="316.5339" x="127.9066" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="15" font-family="serif" id="svg_93" class="black">M</text>
+    <g id="svg_97">
+      <rect height="19" width="21" y="543.87" x="304.573" stroke="#000000" fill="#d64040" id="svg_95"/>
+      <text xml:space="preserve" y="558.8672" x="314.9066" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_96">A</text>
+    </g>
+    <g id="svg_98">
+      <rect height="19" width="21" y="587.37" x="303.573" stroke="#000000" fill="#d64040" id="svg_99"/>
+      <text xml:space="preserve" y="602.3672" x="313.9066" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_100">A</text>
+    </g>
+    <g id="svg_101">
+      <rect height="19" width="21" y="543.37" x="447.573" stroke="#000000" fill="#d64040" id="svg_102"/>
+      <text xml:space="preserve" y="558.3672" x="457.9066" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_103">A</text>
+    </g>
+    <g id="svg_104">
+      <rect height="19" width="21" y="588.37" x="448.573" stroke="#000000" fill="#d64040" id="svg_105"/>
+      <text xml:space="preserve" y="603.3672" x="458.9066" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_106">A</text>
+    </g>
+    <g id="svg_107">
+      <rect height="19" width="21" y="542.37" x="597.073" stroke="#000000" fill="#d64040" id="svg_108"/>
+      <text xml:space="preserve" y="557.3672" x="607.4067" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_109">A</text>
+    </g>
+    <g id="svg_110">
+      <rect height="19" width="21" y="585.37" x="597.573" stroke="#000000" fill="#d64040" id="svg_111"/>
+      <text xml:space="preserve" y="600.3672" x="607.9067" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_112">A</text>
+    </g>
+    <g id="svg_113">
+      <rect height="19" width="21" y="540.37" x="738.073" stroke="#000000" fill="#d64040" id="svg_114"/>
+      <text xml:space="preserve" y="555.3672" x="748.4067" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_115">A</text>
+    </g>
+    <g id="svg_116">
+      <rect height="19" width="21" y="587.87" x="741.573" stroke="#000000" fill="#d64040" id="svg_117"/>
+      <text xml:space="preserve" y="602.8672" x="751.9067" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_118">A</text>
+    </g>
+    <g id="svg_123" stroke="null">
+      <text xml:space="preserve" y="120.6" x="773.01" text-anchor="middle" stroke-width="0" fill="#000000" font-size="12" font-family="serif" id="svg_119" stroke="#000000">电</text>
+   <text xml:space="preserve" y="137.6" x="772.01" text-anchor="middle" stroke-width="0" fill="#000000" font-size="12" font-family="serif" id="svg_120" stroke="#000000">除</text>
+   <text xml:space="preserve" y="153.6" x="773.01" text-anchor="middle" stroke-width="0" fill="#000000" font-size="12" font-family="serif" id="svg_121" stroke="#000000">尘</text>
+    </g>
+    <g id="svg_124">
+      <text xml:space="preserve" y="237.6" x="773.01" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-size="12" font-family="serif" id="svg_125">电</text>
+   <text xml:space="preserve" y="254.6" x="772.01" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-size="12" font-family="serif" id="svg_126">除</text>
+   <text xml:space="preserve" y="270.6" x="773.01" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-size="12" font-family="serif" id="svg_127">尘</text>
+    </g>
+    <g id="svg_70">
+      <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+      <title>Layer 1</title>
+      <path d="m32.50608,84.98034l99.8233,0l0,0c13.07611,0 23.67796,10.29786 23.67796,23.00098c0,12.70196 -10.60185,23.00102 -23.67796,23.00102l-99.8233,0l0,0c-13.07688,0 -23.67874,-10.29906 -23.67874,-23.00102c0,-12.70313 10.60186,-23.00098 23.67874,-23.00098z" stroke="#000000" fill="url(#svg_74)" id="svg_30"/>
+    </g>
+    <line y2="130.775" x2="26.9525" y1="85.525" x1="26.9525" stroke="#000000" fill="none" id="svg_81"/>
+    <line y2="130.275" x2="135.452" y1="85.025" x1="135.452" stroke="#000000" fill="none" id="svg_94"/>
+    <g id="svg_129">
+      <rect height="44.5" width="7.25" y="85.75" x="28.25" stroke-width="0.6" stroke="#000000" fill="#00bf00" id="svg_122"/>
+      <rect height="33.5" width="7.25" y="85.75" x="28.5" stroke-width="0" stroke="#000000" fill="#000000" id="svg_128"/>
+    </g>
+    <g id="svg_130">
+      <rect height="44.5" width="7.25" y="85" x="37" stroke-width="0.6" stroke="#000000" fill="#00bf00" id="svg_131"/>
+      <rect height="33.5" width="7.25" y="85" x="37.25" stroke-width="0" stroke="#000000" fill="#000000" id="svg_132"/>
+    </g>
+    <g id="svg_133">
+      <rect height="44.5" width="7.25" y="85.75" x="46" stroke-width="0.6" stroke="#000000" fill="#00bf00" id="svg_134"/>
+      <rect height="33.5" width="7.25" y="85.75" x="46.25" stroke-width="0" stroke="#000000" fill="#000000" id="svg_135"/>
+    </g>
+    <g id="svg_136">
+      <rect height="44.5" width="7.25" y="86.75" x="108.25" stroke-width="0.6" stroke="#000000" fill="#00bf00" id="svg_137"/>
+      <rect height="33.5" width="7.25" y="86.75" x="108.5" stroke-width="0" stroke="#000000" fill="#000000" id="svg_138"/>
+    </g>
+    <g id="svg_139">
+      <rect height="44.5" width="7.25" y="86.5" x="117" stroke-width="0.6" stroke="#000000" fill="#00bf00" id="svg_140"/>
+      <rect height="33.5" width="7.25" y="86.5" x="117.25" stroke-width="0" stroke="#000000" fill="#000000" id="svg_141"/>
+    </g>
+    <g id="svg_142">
+      <rect height="44.5" width="7.25" y="86.5" x="126.25" stroke-width="0.6" stroke="#000000" fill="#00bf00" id="svg_143"/>
+      <rect height="33.5" width="7.25" y="86.5" x="126.5" stroke-width="0" stroke="#000000" fill="#000000" id="svg_144"/>
+    </g>
+    <g id="svg_29">
+      <rect height="10.5" width="24" y="491.918" x="84.7039" stroke="#666666" fill="#ff0000" id="svg_149"/>
+      <circle r="14.0552" cy="505.718" cx="87.9539" stroke="#333333" fill="#ff0000" id="svg_147"/>
+      <circle r="11.0552" cy="505.968" cx="87.9539" stroke="#cccccc" fill="#ff0000" id="svg_148"/>
+      <g transform="rotate(90 89.07820129394527,505.8550109863282) " id="svg_229">
+        <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+        <title>Layer 1</title>
+        <path d="m82.43782,510.37155l2.49002,-9.03439l8.30013,0l2.49004,9.03439l-13.28018,0l-0.00001,0z" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#b2b2b2" fill="#ff0000" id="svg_228"/>
+      </g>
+    </g>
+    <g id="svg_71">
+      <rect height="10.5" width="24" y="552.582" x="82.7038" stroke="#666666" fill="#ff0000" id="svg_145"/>
+      <circle r="14.0552" cy="566.382" cx="85.9538" stroke="#333333" fill="#ff0000" id="svg_146"/>
+      <circle r="11.0552" cy="566.632" cx="85.9538" stroke="#cccccc" fill="#ff0000" id="svg_152"/>
+      <g transform="rotate(90 87.0780029296874,566.5209960937501) " id="svg_153">
+        <title>Layer 1</title>
+        <path d="m80.43784,571.03796l2.48999,-9.034l8.30011,0l2.49009,9.034l-13.28019,0z" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#b2b2b2" fill="#ff0000" id="svg_155"/>
+      </g>
+    </g>
+    <g id="svg_156">
+      <rect height="10.5" width="24" y="613.247" x="81.3705" stroke="#666666" fill="#ff0000" id="svg_157"/>
+      <circle r="14.0552" cy="627.047" cx="84.6205" stroke="#333333" fill="#ff0000" id="svg_158"/>
+      <circle r="11.0552" cy="627.297" cx="84.6205" stroke="#cccccc" fill="#ff0000" id="svg_159"/>
+      <g transform="rotate(90 85.74469757080068,627.1879882812501) " id="svg_160">
+        <title>Layer 1</title>
+        <path d="m79.10451,631.7049l2.48999,-9.034l8.30011,0l2.49009,9.034l-13.28019,0z" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#b2b2b2" fill="#ff0000" id="svg_162"/>
+      </g>
+    </g>
+    <g id="svg_163">
+      <rect height="10.5" width="24" y="114.584" x="906.037" stroke="#666666" fill="#ff0000" id="svg_164"/>
+      <circle r="14.0552" cy="128.384" cx="909.287" stroke="#333333" fill="#ff0000" id="svg_165"/>
+      <circle r="11.0552" cy="128.634" cx="909.287" stroke="#cccccc" fill="#ff0000" id="svg_166"/>
+      <g transform="rotate(90 910.4110107421875,128.52099609375009) " id="svg_167">
+        <title>Layer 1</title>
+        <path d="m903.77124,133.03831l2.48999,-9.03398l8.30011,0l2.49005,9.03398l-13.28015,0z" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#b2b2b2" fill="#ff0000" id="svg_171"/>
+      </g>
+    </g>
+    <g id="svg_172">
+      <rect height="10.5" width="24" y="234.516" x="912.037" stroke="#666666" fill="#ff0000" id="svg_175"/>
+      <circle r="14.0552" cy="248.316" cx="915.287" stroke="#333333" fill="#ff0000" id="svg_176"/>
+      <circle r="11.0552" cy="248.566" cx="915.287" stroke="#cccccc" fill="#ff0000" id="svg_177"/>
+      <g transform="rotate(90 916.4110107421875,248.45399475097665) " id="svg_178">
+        <title>Layer 1</title>
+        <path d="m909.7713,252.97166l2.48999,-9.03401l8.30005,0l2.48999,9.03401l-13.28003,0z" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#b2b2b2" fill="#ff0000" id="svg_182"/>
+      </g>
+    </g>
+    <g id="svg_196">
+      <rect height="10.5" width="24" y="341.203" x="918.584" stroke="#666666" fill="#ff0000" id="svg_186"/>
+      <circle r="14.0552" cy="354.717" cx="938.12" stroke="#333333" fill="#ff0000" id="svg_189"/>
+      <circle r="11.0552" cy="354.967" cx="938.12" stroke="#cccccc" fill="#ff0000" id="svg_190"/>
+      <g transform="rotate(-90 938.6729736328126,354.85501098632807) " id="svg_193">
+        <title>Layer 1</title>
+        <path d="m932.03326,359.37134l2.48999,-9.03403l8.30005,0l2.48999,9.03403l-13.28003,0z" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#b2b2b2" fill="#ff0000" id="svg_195"/>
+      </g>
+    </g>
+    <g id="svg_199">
+      <rect height="10.5" width="24" y="418.538" x="916.249" stroke="#666666" fill="#ff0000" id="svg_200"/>
+      <circle r="14.0552" cy="432.052" cx="935.785" stroke="#333333" fill="#ff0000" id="svg_203"/>
+      <circle r="11.0552" cy="432.302" cx="935.785" stroke="#cccccc" fill="#ff0000" id="svg_204"/>
+      <g transform="rotate(-90 936.3400268554688,432.18798828124994) " id="svg_207">
+        <title>Layer 1</title>
+        <path d="m929.69958,436.70493l2.48999,-9.034l8.29999,0l2.48999,9.034l-13.27997,0z" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#b2b2b2" fill="#ff0000" id="svg_211"/>
+      </g>
+    </g>
+    <g id="svg_212">
+      <rect height="10.5" width="24" y="512.204" x="918.084" stroke="#666666" fill="#ff0000" id="svg_215"/>
+      <circle r="14.0552" cy="525.718" cx="937.62" stroke="#333333" fill="#ff0000" id="svg_216"/>
+      <circle r="11.0552" cy="525.968" cx="937.62" stroke="#cccccc" fill="#ff0000" id="svg_219"/>
+      <g id="svg_220">
+        <title>Layer 1</title>
+        <path d="m931.53302,530.37177l2.48999,-9.03412l8.29999,0l2.48999,9.03412l-13.27997,0z" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#b2b2b2" fill="#ff0000" id="svg_224"/>
+      </g>
+    </g>
+    <g id="svg_227">
+      <rect height="10.5" width="24" y="592.538" x="921.249" stroke="#666666" fill="#ff0000" id="svg_230"/>
+      <circle r="14.0552" cy="606.052" cx="940.785" stroke="#333333" fill="#ff0000" id="svg_231"/>
+      <circle r="11.0552" cy="606.302" cx="940.785" stroke="#cccccc" fill="#ff0000" id="svg_232"/>
+      <g transform="rotate(-90 941.3400268554689,606.1879882812501) " id="svg_233">
+        <title>Layer 1</title>
+        <path d="m934.70001,610.70502l2.48999,-9.034l8.29999,0l2.48999,9.034l-13.27997,0z" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#b2b2b2" fill="#ff0000" id="svg_235"/>
+      </g>
+    </g>
+    <g id="svg_380">
+      <rect height="10.3333" width="16.8889" y="501.112" x="10.0445" stroke-width="0.6" stroke="#000000" fill="#999999" id="svg_377"/>
+      <line y2="504.668" x2="26.6067" y1="504.445" x1="10.1622" stroke-width="0.6" stroke-dasharray="2,2" stroke="#000000" fill="none" id="svg_378"/>
+      <line y2="508.89" x2="26.6071" y1="508.667" x1="10.1626" stroke-width="0.6" stroke-dasharray="2,2" stroke="#000000" fill="none" id="svg_379"/>
+    </g>
+    <g id="svg_381">
+      <rect height="10.3333" width="16.8889" y="560.78" x="10.3779" stroke-width="0.6" stroke="#000000" fill="#999999" id="svg_382"/>
+      <line y2="564.336" x2="26.9402" y1="564.113" x1="10.4956" stroke-width="0.6" stroke-dasharray="2,2" stroke="#000000" fill="none" id="svg_383"/>
+      <line y2="568.558" x2="26.9406" y1="568.335" x1="10.496" stroke-width="0.6" stroke-dasharray="2,2" stroke="#000000" fill="none" id="svg_384"/>
+    </g>
+    <g id="svg_385">
+      <rect height="10.3333" width="16.8889" y="623.113" x="10.3779" stroke-width="0.6" stroke="#000000" fill="#999999" id="svg_386"/>
+      <line y2="626.669" x2="26.9403" y1="626.446" x1="10.4956" stroke-width="0.6" stroke-dasharray="2,2" stroke="#000000" fill="none" id="svg_387"/>
+      <line y2="630.891" x2="26.9407" y1="630.668" x1="10.496" stroke-width="0.6" stroke-dasharray="2,2" stroke="#000000" fill="none" id="svg_388"/>
+    </g>
+    <g id="svg_389">
+      <rect height="10.3333" width="16.8889" y="349.78" x="1017.37" stroke-width="0.6" stroke="#000000" fill="#999999" id="svg_390"/>
+      <line y2="353.336" x2="1033.94" y1="353.113" x1="1017.49" stroke-width="0.6" stroke-dasharray="2,2" stroke="#000000" fill="none" id="svg_391"/>
+      <line y2="357.558" x2="1033.94" y1="357.335" x1="1017.49" stroke-width="0.6" stroke-dasharray="2,2" stroke="#000000" fill="none" id="svg_392"/>
+    </g>
+    <g id="svg_393">
+      <rect height="10.3333" width="16.8889" y="427.778" x="1016.04" stroke-width="0.6" stroke="#000000" fill="#999999" id="svg_394"/>
+      <line y2="431.334" x2="1032.61" y1="431.111" x1="1016.16" stroke-width="0.6" stroke-dasharray="2,2" stroke="#000000" fill="none" id="svg_395"/>
+      <line y2="435.556" x2="1032.61" y1="435.333" x1="1016.16" stroke-width="0.6" stroke-dasharray="2,2" stroke="#000000" fill="none" id="svg_396"/>
+    </g>
+    <g id="svg_397">
+      <rect height="10.3333" width="16.8889" y="518.945" x="1017.54" stroke-width="0.6" stroke="#000000" fill="#999999" id="svg_398"/>
+      <line y2="522.501" x2="1034.11" y1="522.278" x1="1017.66" stroke-width="0.6" stroke-dasharray="2,2" stroke="#000000" fill="none" id="svg_399"/>
+      <line y2="526.723" x2="1034.11" y1="526.5" x1="1017.66" stroke-width="0.6" stroke-dasharray="2,2" stroke="#000000" fill="none" id="svg_400"/>
+    </g>
+    <g id="svg_401">
+      <rect height="10.3333" width="16.8889" y="601.611" x="1016.21" stroke-width="0.6" stroke="#000000" fill="#999999" id="svg_402"/>
+      <line y2="605.167" x2="1032.77" y1="604.944" x1="1016.33" stroke-width="0.6" stroke-dasharray="2,2" stroke="#000000" fill="none" id="svg_403"/>
+      <line y2="609.389" x2="1032.77" y1="609.166" x1="1016.33" stroke-width="0.6" stroke-dasharray="2,2" stroke="#000000" fill="none" id="svg_404"/>
+    </g>
+    <line y2="618.675" x2="191.667" y1="308" x1="191.667" stroke-width="1.5" stroke="#007fff" fill-opacity="0" fill="none" id="svg_419"/>
+    <line y2="381.01" x2="445" y1="329" x1="445" stroke-width="1.5" stroke="#007fff" fill-opacity="0" fill="none" id="svg_426"/>
+    <line y2="331.985" x2="495.667" y1="462" x1="495.667" stroke-width="1.5" stroke="#007fff" fill-opacity="0" fill="none" id="svg_427"/>
+    <line y2="432.742" x2="1017.01" y1="432.742" x1="950" stroke-width="1.5" stroke="#007fff" fill-opacity="0" fill="none" id="svg_430"/>
+    <line y2="525.575" x2="1017.53" y1="525.575" x1="952.5" stroke-width="1.5" stroke="#007fff" fill-opacity="0" fill="none" id="svg_431"/>
+    <line y2="424.056" x2="803" y1="349.334" x1="803" stroke-width="1.5" stroke="#007fff" fill-opacity="0" fill="none" id="svg_9"/>
+    <line y2="598.667" x2="797.665" y1="518.5" x1="797.665" stroke-width="1.5" stroke="#007fff" fill-opacity="0" fill="none" id="svg_154"/>
+    <path d="m983.604,120.18331l7.72595,-0.51665l-0.33325,119.00002c0,0 -7.72595,-0.15002 -7.72595,-0.15002" stroke-width="2" stroke="#666666" fill-opacity="0" fill="#ffffff" id="svg_438"/>
+    <line y2="247.075" x2="790.5" y1="126.075" x1="790.5" stroke-width="2" stroke="#666666" fill-opacity="0" fill="none" id="svg_440"/>
+    <text stroke-width="0" xml:space="preserve" y="52.033333" x="49.333333" text-anchor="middle" stroke="#000000" fill="#000000" font-size="20" font-family="serif" id="svg_5">燃烧系统</text>
+    <rect height="48.75" width="943.833342" y="4.541668" x="91.4175" stroke-width="2" fill-opacity="0" fill="#000000" id="svg_12" stroke="#cccccc"/>
+    <line y2="27" x2="1035.426703" y1="27" x1="90.896715" stroke-width="2" fill-opacity="0" fill="none" id="svg_437" stroke="#b2b2b2"/>
+    <line y2="50.0956" x2="216.35" y1="3" x1="216.35" stroke-width="2" stroke="#cccccc" fill-opacity="0" fill="none" id="svg_449"/>
+    <line y2="50.0102" x2="357.936334" y1="3" x1="357.936334" stroke-width="2" stroke="#cccccc" fill-opacity="0" fill="none" id="svg_450"/>
+    <line y2="50.913" x2="518.433001" y1="3.75" x1="518.433001" stroke-width="2" stroke="#cccccc" fill-opacity="0" fill="none" id="svg_451"/>
+    <line y2="50.8236" x2="676.225001" y1="4.3125" x1="676.225001" stroke-width="2" stroke="#cccccc" fill-opacity="0" fill="none" id="svg_452"/>
+    <text xml:space="preserve" y="18.25" x="113.333333" text-anchor="middle" stroke="#000000" fill="#000000" font-size="12" font-family="serif" id="svg_453" stroke-width="0">功率</text>
+  <text xml:space="preserve" y="43.583333" x="113.583333" text-anchor="middle" stroke="#000000" fill="#000000" font-size="12" font-family="serif" id="svg_454" stroke-width="0">真空</text>
+  <text xml:space="preserve" y="19" x="252.083333" text-anchor="middle" stroke="#000000" fill="#000000" font-size="12" font-family="serif" id="svg_455" stroke-width="0">汽包水位</text>
+  <text xml:space="preserve" y="44.916667" x="254.833333" text-anchor="middle" stroke="#000000" fill="#000000" font-size="12" font-family="serif" id="svg_456" stroke-width="0">主气温度A</text>
+  <text xml:space="preserve" y="44.416666" x="404.583334" text-anchor="middle" stroke="#000000" fill="#000000" font-size="12" font-family="serif" id="svg_457" stroke-width="0">主气温度B</text>
+  <text xml:space="preserve" y="19.083333" x="401.833334" text-anchor="middle" stroke="#000000" fill="#000000" font-size="12" font-family="serif" id="svg_458" stroke-width="0">主气压力</text>
+  <text xml:space="preserve" y="17.5" x="561.333334" text-anchor="middle" stroke="#000000" fill="#000000" font-size="12" font-family="serif" id="svg_459" stroke-width="0">主气流量</text>
+  <text xml:space="preserve" y="44.083333" x="563.250001" text-anchor="middle" stroke="#000000" fill="#000000" font-size="12" font-family="serif" id="svg_460" stroke-width="0">再热汽温A</text>
+  <text xml:space="preserve" y="44.833333" x="730.895834" text-anchor="middle" stroke="#000000" fill="#000000" font-size="12" font-family="serif" id="svg_461" stroke-width="0">再热汽温B</text>
+  <text xml:space="preserve" y="18.0625" x="727.583334" text-anchor="middle" stroke="#000000" fill="#000000" font-size="12" font-family="serif" id="svg_462" stroke-width="0">给水流量</text>
+  <text xml:space="preserve" y="236.3704" x="318.0093" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="17" font-family="serif" id="svg_481">炉膛</text>
+  <text xml:space="preserve" y="148.166667" x="313" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_464">负压</text>
+  <text data-cfg="eyJ1bml0IjoiUGEifQ==" data-name="605PT46" xml:space="preserve" y="171.2656" x="257.270834" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_465">####</text>
+  <text xml:space="preserve" y="197.895834" x="312.0625" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_467">O2</text>
+  <text data-cfg="eyJ1bml0IjoiJSJ9" data-name="607AT01-1" xml:space="preserve" y="213.036433" x="254.479167" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_469">####</text>
+  <text xml:space="preserve" y="257.083333" x="318.2" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_470">差压</text>
+  <text xml:space="preserve" y="301.833333" x="316.75" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_471">床压</text>
+  <text xml:space="preserve" y="277.557267" x="257.604167" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_472" data-name="605PdT51" data-cfg="eyJ1bml0IjoiS1BhIn0=">####</text>
+  <text xml:space="preserve" y="277.307266" x="352.979167" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_473" data-name="605PdT52" data-cfg="eyJ1bml0IjoiS1BhIn0=">####</text>
+  <text xml:space="preserve" y="325.307267" x="258.85" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_474" data-name="605PT01a" data-cfg="eyJ1bml0IjoiS1BhIn0=">####</text>
+  <text xml:space="preserve" y="325.1406" x="351.125" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_475" data-name="605PT02a" data-cfg="eyJ1bml0IjoiS1BhIn0=">####</text>
+  <text xml:space="preserve" y="343.4375" x="315.692633" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_476">床温</text>
+  <text xml:space="preserve" y="361.6569" x="257.963467" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_477" data-name="6SEL-RULBT" data-cfg="eyJ1bml0Ijoi4oSDIn0=">####</text>
+  <text xml:space="preserve" y="384.354167" x="259.1406" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_478" data-name="6SEL-FULBT" data-cfg="eyJ1bml0Ijoi4oSDIn0=">####</text>
+  <text xml:space="preserve" y="383.932267" x="350.270833" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_479" stroke="#000000" data-name="6SEL-FURBT" data-cfg="eyJ1bml0Ijoi4oSDIn0=">####</text>
+  <text xml:space="preserve" y="361.7344" x="350.844166" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_480" data-name="6SEL-RURBT" data-cfg="eyJ1bml0Ijoi4oSDIn0=">####</text>
+  <text xml:space="preserve" y="173.651067" x="354.473933" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_488" data-name="605PT48" data-cfg="eyJ1bml0IjoiUGEifQ==">####</text>
+  <text class="black" xml:space="preserve" y="126.598932" x="249.9375" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_489" data-name="605TE01" data-cfg="eyJ1bml0Ijoi4oSDIn0=">####</text>
+  <text xml:space="preserve" y="126.598935" x="356.604167" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_490" data-name="605TE02" data-cfg="eyJ1bml0Ijoi4oSDIn0=">####</text>
+  <text xml:space="preserve" y="406.6875" x="266.1406" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_463" data-name="606PT05" data-cfg="eyJ1bml0IjoiS1BhIn0=">###</text>
+  <text xml:space="preserve" y="406.6875" x="346.473933" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_482" data-name="606PT06" data-cfg="eyJ1bml0IjoiS1BhIn0=">###</text>
+  <text xml:space="preserve" y="426.020833" x="267.473933" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_494" data-name="606TE03" data-cfg="eyJ1bml0Ijoi4oSDIn0=">###</text>
+  <text xml:space="preserve" y="426.354167" x="345.473933" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_512" data-name="606TE04" data-cfg="eyJ1bml0Ijoi4oSDIn0=">###</text>
+  <text xml:space="preserve" y="91.2783" x="513.7069" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_483" data-name="605TE08" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="182.2523" x="498.2276" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_562">##</text>
+  <text xml:space="preserve" y="183.0856" x="431.644166" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_563" data-name="605PT32" data-cfg="eyJ1bml0IjoiS1BhIn0=">##</text>
+  <text xml:space="preserve" y="235.3357" x="498.1443" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_565" data-name="605TE11" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="236.0856" x="431.310833" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_566" data-name="605TE10" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="86.445" x="189.54" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_673" data-name="605TE06" data-cfg="eyJ1bml0Ijoi4oSDIn0=">####</text>
+  <text xml:space="preserve" y="86.6116" x="420.7067" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_674" data-name="605TE07" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="303.7373" x="659.3167" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_410">空预器</text>
+  <text xml:space="preserve" y="146.9929" x="658.6342" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_568">低过进口</text>
+  <text xml:space="preserve" y="200.015" x="658.65" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_572">低再进口</text>
+  <text data-cfg="eyJ1bml0IjoiS1BhIn0=" data-name="607PT01" xml:space="preserve" y="127.015" x="603.3375" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_618">##</text>
+  <text xml:space="preserve" y="169.39" x="605.025" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_620" data-name="607PT07" data-cfg="eyJ1bml0IjoiS1BhIn0=">##</text>
+  <text xml:space="preserve" y="221.64" x="606.9" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_622" data-name="607PT03" data-cfg="eyJ1bml0IjoiS1BhIn0=">##</text>
+  <text data-cfg="eyJ1bml0Ijoi4oSDIn0=" data-name="607TE01" xml:space="preserve" y="125.765" x="681.5875" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_675">##</text>
+  <text xml:space="preserve" y="169.89" x="680.775" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_677" data-name="607TE07" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="221.14" x="682.65" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_679" data-name="607TE03" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="271.14" x="681.65" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_682" data-name="607TE13" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="270.89" x="607.65" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_686" data-name="607PT13" data-cfg="eyJ1bml0IjoiS1BhIn0=">##</text>
+  <text xml:space="preserve" y="324.89" x="608.1834" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_687" data-name="607PT15" data-cfg="eyJ1bml0IjoiUGEifQ==">##</text>
+  <text xml:space="preserve" y="324.89" x="682.4834" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_689" data-name="607TE15" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="250.9417" x="656.245" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_411">省煤器</text>
+  <text data-cfg="eyJ1bml0IjoiS1BhIn0=" data-name="606PT09" xml:space="preserve" y="447.675" x="811.6667" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_648">##</text>
+  <text xml:space="preserve" y="493.341667" x="800.833333" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_650" data-name="606PT62" data-cfg="eyJ1bml0IjoiS1BhIn0=">##</text>
+  <text xml:space="preserve" y="331.6751" x="943.3333" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_590" data-name="dianqi-16" data-cfg="eyJ1bml0IjoiQSJ9">##</text>
+  <text data-cfg="eyJ1bml0IjoiQSJ9" data-name="dianqi-35" xml:space="preserve" y="407.675" x="944.3333" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_606">##</text>
+  <text xml:space="preserve" y="147.7283" x="955" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_654" data-name="607PT23" data-cfg="eyJ1bml0IjoiUGEifQ==">##</text>
+  <text xml:space="preserve" y="266.995" x="972.2" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_655" data-name="607PT24" data-cfg="eyJ1bml0IjoiUGEifQ==">##</text>
+  <text data-cfg="eyJ1bml0IjoiQSJ9" data-name="dianqi-11" xml:space="preserve" y="484.7434" x="93.5001" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_657">##</text>
+  <text data-cfg="eyJ1bml0IjoiQSJ9" data-name="dianqi-36" xml:space="preserve" y="539.7434" x="91.1667" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_658">##</text>
+  <text data-cfg="eyJ1bml0IjoiQSJ9" data-name="dianqi-13" xml:space="preserve" y="603.076667" x="86.500067" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_659">##</text>
+  <text data-cfg="eyJ1bml0IjoiS1BhIn0=" data-name="606PT07-1" xml:space="preserve" y="520.0769" x="155.1666" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_487">##</text>
+  <text data-cfg="eyJ1bml0IjoiS1BhIn0=" data-name="606PT07-2" xml:space="preserve" y="582.7436" x="154.8335" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_491">##</text>
+  <text data-cfg="eyJ1bml0IjoiS1BhIn0=" data-name="606PT07-3" xml:space="preserve" y="643.4101" x="156.1667" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_492">##</text>
+  <text xml:space="preserve" y="169.7283" x="955" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_499" data-name="607TE21" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="285.995" x="973.2" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_500" data-name="607TE22" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="98.795" x="915.2" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_501" data-name="dianqi-17" data-cfg="eyJ1bml0IjoiQSJ9">##</text>
+  <text xml:space="preserve" y="221.395" x="916.3333" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_504" data-name="dianqi-39" data-cfg="eyJ1bml0IjoiQSJ9">##</text>
+  <text xml:space="preserve" y="45.182267" x="158.4375" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_10" data-name="633PT01" data-cfg="eyJ1bml0IjoiS1BhIn0=">###</text>
+  <text data-cfg="eyJ1bml0IjoiIn0=" data-name="6MERPOWER" xml:space="preserve" y="17.5156" x="159.020833" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_13">###</text>
+  <text xml:space="preserve" y="18.098933" x="312.604167" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_289" data-name="6SEL-DLA" data-cfg="eyJ1bml0IjoibW0ifQ==">###</text>
+  <text xml:space="preserve" y="45.7656" x="316.020833" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_505" data-name="1TV1T" data-cfg="eyJ1bml0Ijoi4oSDIn0=">###</text>
+  <text stroke="#000000" xml:space="preserve" y="19.098933" x="466.604168" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_506" data-name="1TP" data-cfg="eyJ1bml0IjoiTVBhIn0=">###</text>
+  <text xml:space="preserve" y="43.932266" x="469.354167" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_507" data-name="1TV2T" data-cfg="eyJ1bml0Ijoi4oSDIn0=">###</text>
+  <text xml:space="preserve" y="18.0156" x="625.770835" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_508" data-name="6MSFLW" data-cfg="eyJ1bml0IjoidC9oIn0=">###</text>
+  <text xml:space="preserve" y="44.348933" x="628.020834" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_509" data-name="6SEL-SRHAOT" data-cfg="eyJ1bml0Ijoi4oSDIn0=">###</text>
+  <text xml:space="preserve" y="17.0781" x="795.270834" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_510" data-name="601FT01-COMP" data-cfg="eyJ1bml0IjoidC9oIn0=">###</text>
+  <text xml:space="preserve" y="44.598933" x="798.083334" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_513" data-name="6SEL-SRHBOT" data-cfg="eyJ1bml0Ijoi4oSDIn0=">###</text>
+    <line y2="50.2611" x2="855.620834" y1="3.75" x1="855.620834" stroke-width="2" stroke="#cccccc" fill-opacity="0" fill="none" id="svg_514"/>
+    <text xml:space="preserve" y="45.875" x="909.333334" text-anchor="middle" stroke="#000000" fill="#000000" font-size="12" font-family="serif" id="svg_515" stroke-width="0">凝汽器水位</text>
+  <text xml:space="preserve" y="20.9375" x="901.895834" text-anchor="middle" stroke="#000000" fill="#000000" font-size="12" font-family="serif" id="svg_516" stroke-width="0">总风量</text>
+  <text xml:space="preserve" y="20.4531" x="963.416667" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_517" data-name="6TOTAL-AF-F" data-cfg="eyJ1bml0IjoiTm0zL2gifQ==">###</text>
+  <text xml:space="preserve" y="45.307267" x="973.520834" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_518" data-name="626LT99" data-cfg="eyJ1bml0IjoibSJ9">###</text>
+  <text xml:space="preserve" y="153.596633" x="31.5017" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_663" data-name="613TE01" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="198.596733" x="28.501667" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_664" data-name="613TE02" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="241.596699" x="28.1683" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_665" data-name="613TE03" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="290.596699" x="30.0017" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_666" data-name="613TE04" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="151.763268" x="116.501667" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_526" data-name="613TE07" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="198.5967" x="118.001733" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_548" data-name="613TE08" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="242.263333" x="118.335033" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_561" data-name="613TE09" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="336.93" x="121.334967" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_580" data-name="613TE11" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="458.930036" x="123.668331" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="normal" font-size="10" font-family="serif" id="svg_530">高压流化风机A</text>
+  <text xml:space="preserve" y="586.930033" x="54.335" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="normal" font-size="10" font-family="serif" id="svg_531">高压流化风机B</text>
+  <text xml:space="preserve" y="657.930033" x="65.335" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="normal" font-size="10" font-family="serif" id="svg_532">高压流化风机C</text>
+  <text xml:space="preserve" y="387.0084" x="965.6666" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_533">一次风机</text>
+  <text xml:space="preserve" y="555.3417" x="964" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_534">二次风机</text>
+  <text xml:space="preserve" y="367.3417" x="961.1666" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="9" font-family="serif" id="svg_535">A</text>
+  <text xml:space="preserve" y="537.1751" x="963.5" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="9" font-family="serif" id="svg_536">A</text>
+  <text xml:space="preserve" y="445.3417" x="958.9999" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="9" font-family="serif" id="svg_537">B</text>
+  <text xml:space="preserve" y="619.0084" x="963.4999" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="9" font-family="serif" id="svg_539">B</text>
+  <text xml:space="preserve" y="157.3083" x="894.6499" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_542">引风机A</text>
+  <text xml:space="preserve" y="432.596733" x="40.0017" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="11" font-family="serif" id="svg_543">冷渣器</text>
+  <text xml:space="preserve" y="78.2633" x="49.335001" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_544" data-name="601PT04" data-cfg="eyJ1bml0IjoiTVBhIn0=">##</text>
+  <text data-cfg="eyJ1bml0IjoiUlBNL00ifQ==" data-name="604N09N" xml:space="preserve" y="626.8901" x="250.1834" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_8">##</text>
+    <rect height="10.8" width="20" y="490.584" x="145.819" stroke="#666666" fill="#7f7f7f" id="svg_168"/>
+    <line y2="491.599" x2="165.281" y1="500.689" x1="146.736" stroke="#666666" fill="none" id="svg_181"/>
+    <line y2="500.689" x2="165.463" y1="491.235" x1="146.372" stroke="#666666" fill="none" id="svg_185"/>
+    <line y2="493.147" x2="155.463" y1="487.498" x1="155.463" stroke="#666666" fill="none" id="svg_194"/>
+    <circle r="5.13446" cy="479.84" cx="155.714" stroke-width="0.6" stroke="#666666" fill="none" id="svg_208"/>
+    <text xml:space="preserve" y="483.435" x="155.6874" text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_223">M</text>
+    <rect height="10.8" width="20" y="553.25" x="146.485" stroke="#666666" fill="#7f7f7f" id="svg_236"/>
+    <line y2="554.265" x2="165.947" y1="563.355" x1="147.402" stroke="#666666" fill="none" id="svg_237"/>
+    <line y2="563.355" x2="166.129" y1="553.901" x1="147.038" stroke="#666666" fill="none" id="svg_238"/>
+    <line y2="552.813" x2="156.129" y1="547.164" x1="156.129" stroke="#666666" fill="none" id="svg_239"/>
+    <circle r="5.13446" cy="542.506" cx="156.38" stroke-width="0.6" stroke="#666666" fill="none" id="svg_240"/>
+    <text xml:space="preserve" y="545.502" x="156.4435" text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_241">M</text>
+    <rect height="10.8" width="20" y="613.917" x="147.151" stroke="#666666" fill="#7f7f7f" id="svg_243"/>
+    <line y2="614.932" x2="166.613" y1="624.022" x1="148.068" stroke="#666666" fill="none" id="svg_244"/>
+    <line y2="624.022" x2="166.795" y1="614.568" x1="147.704" stroke="#666666" fill="none" id="svg_245"/>
+    <line y2="613.48" x2="156.795" y1="607.831" x1="156.795" stroke="#666666" fill="none" id="svg_246"/>
+    <circle r="5.13446" cy="603.173" cx="157.046" stroke-width="0.6" stroke="#666666" fill="none" id="svg_247"/>
+    <text xml:space="preserve" y="606.5377" x="157.1996" text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_248">M</text>
+    <rect height="10.8" width="20" y="498.584" x="39.1517" stroke="#666666" fill="#7f7f7f" id="svg_250"/>
+    <line y2="499.599" x2="58.6137" y1="508.689" x1="40.0687" stroke="#666666" fill="none" id="svg_251"/>
+    <line y2="508.689" x2="58.7957" y1="499.235" x1="39.7047" stroke="#666666" fill="none" id="svg_252"/>
+    <line y2="498.147" x2="48.7957" y1="492.498" x1="48.7957" stroke="#666666" fill="none" id="svg_253"/>
+    <circle r="5.13446" cy="487.84" cx="49.0467" stroke-width="0.6" stroke="#666666" fill="none" id="svg_254"/>
+    <text xml:space="preserve" y="491.3108" x="48.9613" text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_255">M</text>
+    <rect height="10.8" width="20" y="560.25" x="38.8177" stroke="#666666" fill="#7f7f7f" id="svg_257"/>
+    <line y2="561.265" x2="58.2797" y1="570.355" x1="39.7347" stroke="#666666" fill="none" id="svg_258"/>
+    <line y2="570.355" x2="58.4617" y1="560.901" x1="39.3707" stroke="#666666" fill="none" id="svg_259"/>
+    <line y2="559.813" x2="48.4617" y1="554.164" x1="48.4617" stroke="#666666" fill="none" id="svg_260"/>
+    <circle r="5.13446" cy="549.506" cx="48.7127" stroke-width="0.6" stroke="#666666" fill="none" id="svg_261"/>
+    <text xml:space="preserve" y="552.8621" x="47.8333" text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_262">M</text>
+    <rect height="10.8" width="20" y="622.250333" x="39.4837" stroke="#666666" fill="#7f7f7f" id="svg_264"/>
+    <line y2="621.932" x2="58.9457" y1="631.022" x1="40.4007" stroke="#666666" fill="none" id="svg_265"/>
+    <line y2="631.022" x2="59.1277" y1="621.568" x1="40.0367" stroke="#666666" fill="none" id="svg_266"/>
+    <line y2="620.48" x2="49.1277" y1="614.831" x1="49.1277" stroke="#666666" fill="none" id="svg_267"/>
+    <circle r="5.13446" cy="610.173" cx="49.3787" stroke-width="0.6" stroke="#666666" fill="none" id="svg_268"/>
+    <text xml:space="preserve" y="613.8977" x="48.5893" text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_269">M</text>
+    <rect height="10.8" width="20" y="413.917" x="209.152" stroke="#666666" fill="#7f7f7f" id="svg_271"/>
+    <line y2="414.932" x2="228.614" y1="424.022" x1="210.069" stroke="#666666" fill="none" id="svg_272"/>
+    <line y2="424.022" x2="228.796" y1="414.568" x1="209.705" stroke="#666666" fill="none" id="svg_273"/>
+    <line y2="413.48" x2="218.796" y1="407.831" x1="218.796" stroke="#666666" fill="none" id="svg_274"/>
+    <circle r="5.13446" cy="403.173" cx="219.047" stroke-width="0.6" stroke="#666666" fill="none" id="svg_275"/>
+    <text xml:space="preserve" y="407.3985" x="218.5169" text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_276">M</text>
+    <rect height="10.8" width="20" y="413.917" x="402.485" stroke="#666666" fill="#7f7f7f" id="svg_279"/>
+    <line y2="414.932" x2="421.947" y1="424.022" x1="403.402" stroke="#666666" fill="none" id="svg_280"/>
+    <line y2="424.022" x2="422.129" y1="414.568" x1="403.038" stroke="#666666" fill="none" id="svg_281"/>
+    <line y2="413.48" x2="412.129" y1="407.831" x1="412.129" stroke="#666666" fill="none" id="svg_282"/>
+    <circle r="5.13446" cy="403.173" cx="412.38" stroke-width="0.6" stroke="#666666" fill="none" id="svg_283"/>
+    <text xml:space="preserve" y="406.731933" x="412.7861" text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_284">M</text>
+    <rect height="10.8" width="20" y="349.251" x="974.484" stroke="#666666" fill="#7f7f7f" id="svg_286"/>
+    <line y2="350.266" x2="993.946" y1="359.356" x1="975.401" stroke="#666666" fill="none" id="svg_287"/>
+    <line y2="359.356" x2="994.128" y1="349.902" x1="975.037" stroke="#666666" fill="none" id="svg_288"/>
+    <line y2="348.814" x2="984.128" y1="343.165" x1="984.128" stroke="#666666" fill="none" id="svg_290"/>
+    <circle r="5.13446" cy="338.507" cx="984.379" stroke-width="0.6" stroke="#666666" fill="none" id="svg_291"/>
+    <text xml:space="preserve" y="343.217066" x="984.853736" text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_292">M</text>
+    <g id="svg_627">
+      <rect height="10.8" width="20" y="427.25" x="975.151" stroke="#666666" fill="#7f7f7f" id="svg_294"/>
+      <line y2="428.265" x2="994.613" y1="437.355" x1="976.068" stroke="#666666" fill="none" id="svg_295"/>
+      <line y2="437.355" x2="994.795" y1="427.901" x1="975.704" stroke="#666666" fill="none" id="svg_296"/>
+      <line y2="426.813" x2="984.795" y1="421.164" x1="984.795" stroke="#666666" fill="none" id="svg_297"/>
+      <circle r="5.13446" cy="416.506" cx="985.046" stroke-width="0.6" stroke="#666666" fill="none" id="svg_298"/>
+      <text xml:space="preserve" y="415.2745" x="1096.2765" transform="matrix(0.881717,0,0,0.79008,18.3941,91.4551) " text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_299">M</text>
+    </g>
+    <rect height="10.8" width="20" y="521.25" x="977.484" stroke="#666666" fill="#7f7f7f" id="svg_301"/>
+    <line y2="522.265" x2="996.946" y1="531.355" x1="978.401" stroke="#666666" fill="none" id="svg_302"/>
+    <line y2="531.355" x2="997.128" y1="521.901" x1="978.037" stroke="#666666" fill="none" id="svg_303"/>
+    <line y2="520.813" x2="987.128" y1="515.164" x1="987.128" stroke="#666666" fill="none" id="svg_304"/>
+    <circle r="5.13446" cy="510.506" cx="987.379" stroke-width="0.6" stroke="#666666" fill="none" id="svg_305"/>
+    <text xml:space="preserve" y="514.249799" x="988.256033" text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_306">M</text>
+    <rect height="10.8" width="20" y="602.416" x="977.984" stroke="#666666" fill="#7f7f7f" id="svg_308"/>
+    <line y2="603.431" x2="997.446" y1="612.521" x1="978.901" stroke="#666666" fill="none" id="svg_309"/>
+    <line y2="612.521" x2="997.628" y1="603.067" x1="978.537" stroke="#666666" fill="none" id="svg_310"/>
+    <line y2="601.979" x2="987.628" y1="596.33" x1="987.628" stroke="#666666" fill="none" id="svg_311"/>
+    <circle r="5.13446" cy="591.672" cx="987.879" stroke-width="0.6" stroke="#666666" fill="none" id="svg_312"/>
+    <text xml:space="preserve" y="595.648768" x="987.489897" text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_313">M</text>
+    <rect height="10.8" width="20" y="121.917" x="831.151" stroke="#666666" fill="#7f7f7f" id="svg_315"/>
+    <line y2="122.932" x2="850.613" y1="132.022" x1="832.068" stroke="#666666" fill="none" id="svg_316"/>
+    <line y2="132.022" x2="850.795" y1="122.568" x1="831.704" stroke="#666666" fill="none" id="svg_317"/>
+    <line y2="121.48" x2="840.795" y1="115.831" x1="840.795" stroke="#666666" fill="none" id="svg_318"/>
+    <circle r="5.13446" cy="111.173" cx="841.046" stroke-width="0.6" stroke="#666666" fill="none" id="svg_319"/>
+    <text xml:space="preserve" y="114.3157" x="840.7087" text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_320">M</text>
+    <rect height="10.8" width="20" y="240.583" x="831.151" stroke="#666666" fill="#7f7f7f" id="svg_322"/>
+    <line y2="241.598" x2="850.613" y1="250.688" x1="832.068" stroke="#666666" fill="none" id="svg_323"/>
+    <line y2="250.688" x2="850.795" y1="241.234" x1="831.704" stroke="#666666" fill="none" id="svg_324"/>
+    <line y2="240.146" x2="840.795" y1="234.497" x1="840.795" stroke="#666666" fill="none" id="svg_325"/>
+    <circle r="5.13446" cy="229.839" cx="841.046" stroke-width="0.6" stroke="#666666" fill="none" id="svg_326"/>
+    <text xml:space="preserve" y="233.7615" x="840.7088" text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_327">M</text>
+    <rect height="16.1111" width="8.11111" y="118.984" x="806.667" stroke-width="0.6" stroke="#666666" fill="#7f7f7f" id="svg_329"/>
+    <line y2="135.022" x2="810.667" y1="115.984" x1="810.667" stroke-width="0.6" stroke="#666666" fill="none" id="svg_330"/>
+    <circle r="5.13446" cy="111.174" cx="810.825" stroke-width="0.6" stroke="#666666" fill="none" id="svg_331"/>
+    <text xml:space="preserve" y="114.9253" x="810.9322" text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_332">M</text>
+    <rect height="16.1111" width="8.11111" y="114.65" x="976.167" stroke-width="0.6" stroke="#666666" fill="#7f7f7f" id="svg_334"/>
+    <line y2="130.688" x2="980.167" y1="111.65" x1="980.167" stroke-width="0.6" stroke="#666666" fill="none" id="svg_335"/>
+    <circle r="5.13446" cy="106.84" cx="980.325" stroke-width="0.6" stroke="#666666" fill="none" id="svg_336"/>
+    <text xml:space="preserve" y="110.4407" x="980.9208" text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_337">M</text>
+    <g id="svg_707">
+      <rect height="16.1111" width="8.11111" y="230.317" x="975.667" stroke-width="0.6" stroke="#666666" fill="#7f7f7f" id="svg_339"/>
+      <line y2="246.355" x2="979.667" y1="227.317" x1="979.667" stroke-width="0.6" stroke="#666666" fill="none" id="svg_340"/>
+      <circle r="5.13446" cy="222.507" cx="979.825" stroke-width="0.6" stroke="#666666" fill="none" id="svg_341"/>
+      <text xml:space="preserve" y="169.5894" x="1090.3535" transform="matrix(0.881717,0,0,0.79008,18.3941,91.4551) " text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_342">M</text>
+    </g>
+    <g id="svg_712">
+      <rect height="16.1111" width="8.11111" y="238.484" x="807.167" stroke-width="0.6" stroke="#666666" fill="#7f7f7f" id="svg_344"/>
+      <line y2="254.522" x2="811.167" y1="235.484" x1="811.167" stroke-width="0.6" stroke="#666666" fill="none" id="svg_345"/>
+      <circle r="5.13446" cy="230.674" cx="811.325" stroke-width="0.6" stroke="#666666" fill="none" id="svg_346"/>
+      <text xml:space="preserve" y="179.926" x="899.2493" transform="matrix(0.881717,0,0,0.79008,18.3941,91.4551) " text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_347">M</text>
+    </g>
+    <g transform="rotate(-90 782.3250122070314,186.5670013427734) " id="svg_717">
+      <rect height="16.1111" width="8.11111" y="184.984" x="778.167" stroke-width="0.6" stroke="#666666" fill="#7f7f7f" id="svg_349"/>
+      <line y2="201.022" x2="782.167" y1="181.984" x1="782.167" stroke-width="0.6" stroke="#666666" fill="none" id="svg_350"/>
+      <circle r="5.13446" cy="177.174" cx="782.325" stroke-width="0.6" stroke="#666666" fill="none" id="svg_351"/>
+      <text xml:space="preserve" y="112.2114" x="866.3589" transform="matrix(0.881717,0,0,0.79008,18.3941,91.4551) " text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_352">M</text>
+    </g>
+    <g id="svg_722">
+      <rect height="16.1111" width="8.11111" y="347.151" x="826" stroke-width="0.6" stroke="#666666" fill="#7f7f7f" id="svg_354"/>
+      <line y2="363.189" x2="830" y1="344.151" x1="830" stroke-width="0.6" stroke="#666666" fill="none" id="svg_355"/>
+      <circle r="5.13446" cy="339.341" cx="830.158" stroke-width="0.6" stroke="#666666" fill="none" id="svg_356"/>
+      <text xml:space="preserve" y="317.465" x="920.6091" transform="matrix(0.881717,0,0,0.79008,18.3941,91.4551) " text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_357">M</text>
+    </g>
+    <g id="svg_727">
+      <rect height="16.1111" width="8.11111" y="414.984" x="823.667" stroke-width="0.6" stroke="#666666" fill="#7f7f7f" id="svg_359"/>
+      <line y2="431.022" x2="827.667" y1="411.984" x1="827.667" stroke-width="0.6" stroke="#666666" fill="none" id="svg_360"/>
+      <circle r="5.13446" cy="407.174" cx="827.825" stroke-width="0.6" stroke="#666666" fill="none" id="svg_361"/>
+      <text xml:space="preserve" y="403.3214" x="917.9627" transform="matrix(0.881717,0,0,0.79008,18.3941,91.4551) " text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_362">M</text>
+    </g>
+    <g id="svg_732">
+      <rect height="16.1111" width="8.11111" y="512.484" x="822.167" stroke-width="0.6" stroke="#666666" fill="#7f7f7f" id="svg_364"/>
+      <line y2="528.522" x2="826.167" y1="509.484" x1="826.167" stroke-width="0.6" stroke="#666666" fill="none" id="svg_365"/>
+      <circle r="5.13446" cy="504.674" cx="826.325" stroke-width="0.6" stroke="#666666" fill="none" id="svg_366"/>
+      <text xml:space="preserve" y="526.7268" x="916.2615" transform="matrix(0.881717,0,0,0.79008,18.3941,91.4551) " text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_367">M</text>
+    </g>
+    <g id="svg_737">
+      <rect height="16.1111" width="8.11111" y="590.317" x="820.167" stroke-width="0.6" stroke="#666666" fill="#7f7f7f" id="svg_369"/>
+      <line y2="606.355" x2="824.167" y1="587.317" x1="824.167" stroke-width="0.6" stroke="#666666" fill="none" id="svg_370"/>
+      <circle r="5.13446" cy="582.507" cx="824.325" stroke-width="0.6" stroke="#666666" fill="none" id="svg_371"/>
+      <text xml:space="preserve" y="625.2401" x="913.9932" transform="matrix(0.881717,0,0,0.79008,18.3941,91.4551) " text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_372">M</text>
+    </g>
+    <g id="svg_742" transform="rotate(90 808.8250122070314,390.8074340820313) ">
+      <rect height="16.1111" width="8.11111" y="391.484" x="804.667" stroke-width="0.6" stroke="#666666" fill="#7f7f7f" id="svg_374"/>
+      <line y2="407.522" x2="808.667" y1="388.484" x1="808.667" stroke-width="0.6" stroke="#666666" fill="none" id="svg_375"/>
+      <circle r="5.13446" cy="383.674" cx="808.825" stroke-width="0.6" stroke="#666666" fill="none" id="svg_376"/>
+      <text xml:space="preserve" y="373.5776" x="896.4138" transform="matrix(0.881717,0,0,0.79008,18.3941,91.4551) " text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_405">M</text>
+    </g>
+    <g transform="rotate(90 801.1580200195312,561.5670166015626) " id="svg_747">
+      <rect height="16.1111" width="8.11111" y="559.984" x="797" stroke-width="0.6" stroke="#666666" fill="#7f7f7f" id="svg_407"/>
+      <line y2="576.022" x2="801" y1="556.984" x1="801" stroke-width="0.6" stroke="#666666" fill="none" id="svg_408"/>
+      <circle r="5.13446" cy="552.174" cx="801.158" stroke-width="0.6" stroke="#666666" fill="none" id="svg_409"/>
+      <text xml:space="preserve" y="586.8473" x="887.7186" transform="matrix(0.881717,0,0,0.79008,18.3941,91.4551) " text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_441">M</text>
+    </g>
+    <rect height="27" width="61" y="341.367" x="53.1667" stroke="#000000" fill="url(#svg_38)" id="svg_161"/>
+    <rect height="22" width="23" y="344.037" x="63.073" stroke="#000000" fill="#cccccc" id="svg_242"/>
+    <text xml:space="preserve" y="360.0339" x="74.4066" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="15" font-family="serif" id="svg_249" class="black">5</text>
+    <rect height="22" width="23" y="345.037" x="115.073" stroke="#000000" fill="#e5e5e5" id="svg_263"/>
+    <text xml:space="preserve" y="361.0339" x="128.4066" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="15" font-family="serif" id="svg_270" class="black">M</text>
+  <text xml:space="preserve" y="339.096699" x="29.168367" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_278" data-name="613TE05" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="382.263364" x="121.334934" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_285" data-name="613TE12" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+    <rect height="27" width="61" y="385.367" x="53.6667" stroke="#000000" fill="url(#svg_38)" id="svg_293"/>
+    <rect height="22" width="23" y="388.537" x="64.073" stroke="#000000" fill="#cccccc" id="svg_307"/>
+    <text xml:space="preserve" y="404.5339" x="75.4066" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="15" font-family="serif" id="svg_314" class="black">6</text>
+  <text xml:space="preserve" y="382.596699" x="28.5017" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_321" data-name="613TE06" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+    <rect height="22" width="23" y="388.537" x="115.573" stroke="#000000" fill="#e5e5e5" id="svg_338"/>
+    <text xml:space="preserve" y="404.5339" x="128.9066" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="15" font-family="serif" id="svg_343" class="black">M</text>
+  <text xml:space="preserve" y="212.7031" x="355.145833" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_353" data-name="607AT02-1" data-cfg="eyJ1bml0IjoiJSJ9">####</text>
+  <text xml:space="preserve" y="128.5856" x="432.310833" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_80" data-name="605PT12" data-cfg="eyJ1bml0IjoiUGEifQ==">##</text>
+  <text xml:space="preserve" y="155.918933" x="432.4775" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_234" data-name="605TE04" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="209.5856" x="431.810833" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_300" data-name="605PT20" data-cfg="eyJ1bml0IjoiS1BhIn0=">##</text>
+  <text xml:space="preserve" y="128.2523" x="500.2276" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_363" data-name="605PT13" data-cfg="eyJ1bml0IjoiUGEifQ==">##</text>
+  <text xml:space="preserve" y="140" x="673" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-size="13" font-family="serif" id="svg_442"/>
+  <text xml:space="preserve" y="304.0856" x="440.6788" transform="matrix(1.00732,0,0,1,-9.17792,0) " text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_406">##</text>
+  <text xml:space="preserve" y="329.7523" x="473.9355" transform="matrix(1.00732,0,0,1,-9.17792,0) " text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_547">##</text>
+    <rect height="9.33333" width="44" y="93" x="485.174" stroke="#000000" fill="#666666" id="svg_549"/>
+    <text data-cfg="eyJ1bml0Ijoi4oSDIn0=" data-name="605TE05" xml:space="preserve" y="152.2523" x="498.9775" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_552">##</text>
+  <text data-cfg="eyJ1bml0IjoiS1BhIn0=" data-name="605PT21" xml:space="preserve" y="210.2523" x="497.9775" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_553">##</text>
+  <text data-cfg="eyJ1bml0IjoiJSJ9" data-name="606FCV20P" xml:space="preserve" y="478.4102" x="24.8334" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_554">##</text>
+  <text data-cfg="eyJ1bml0IjoiJSJ9" data-name="606FCV21P" xml:space="preserve" y="543.4102" x="16.8334" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_555">##</text>
+  <text data-cfg="eyJ1bml0IjoiJSJ9" data-name="606FCV22P" xml:space="preserve" y="605.743767" x="19.5" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_556">##</text>
+  <text data-cfg="eyJ1bml0IjoiUlBNL00ifQ==" data-name="604N01N" xml:space="preserve" y="536.2236" x="249.85" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_557">##</text>
+  <text data-cfg="eyJ1bml0IjoiUlBNL00ifQ==" data-name="604N03N" xml:space="preserve" y="536.2237" x="389.85" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_559">##</text>
+  <text data-cfg="eyJ1bml0IjoiUlBNL00ifQ==" data-name="604N05N" xml:space="preserve" y="534.8904" x="549.85" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_560">##</text>
+  <text data-cfg="eyJ1bml0IjoiUlBNL00ifQ==" data-name="604N07N" xml:space="preserve" y="533.5572" x="683.1834" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_567">##</text>
+  <text xml:space="preserve" y="409.0967" x="184.0016" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_579">##</text>
+    <rect fill-opacity="0" height="31.3333" width="48.6667" y="420.666" x="589.666" stroke-width="2" stroke="#666666" fill="#000000" id="svg_277"/>
+    <g transform="rotate(-90 584.6580200195314,431.1456909179688) " id="svg_752">
+      <rect height="16.1111" width="8.11111" y="431.817" x="580.5" stroke-width="0.6" stroke="#666666" fill="#7f7f7f" id="svg_443"/>
+      <line y2="447.855" x2="584.5" y1="428.817" x1="584.5" stroke-width="0.6" stroke="#666666" fill="none" id="svg_444"/>
+      <circle r="5.13446" cy="424.007" cx="584.658" stroke-width="0.6" stroke="#666666" fill="none" id="svg_445"/>
+      <text xml:space="preserve" y="424.6274" x="642.175" transform="matrix(0.881717,0,0,0.79008,18.3941,91.4551) " text-anchor="middle" stroke-width="0" stroke="#666666" fill="#000000" font-size="10" font-family="serif" id="svg_493">M</text>
+    </g>
+    <text xml:space="preserve" y="364.37" x="613.4793" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_582" data-name="607AT01-3" data-cfg="eyJ1bml0IjoiJSJ9">##</text>
+  <text xml:space="preserve" y="365.0366" x="683.4793" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_583" data-name="607AT01-4" data-cfg="eyJ1bml0IjoiJSJ9">##</text>
+  <text xml:space="preserve" y="303.5567" x="538.1501" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_586">##</text>
+  <text xml:space="preserve" y="326.2235" x="538.8167" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_587">##</text>
+  <text xml:space="preserve" y="351.5567" x="538.8168" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_589">##</text>
+  <text xml:space="preserve" y="378.8901" x="528.1502" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_591">##</text>
+  <text xml:space="preserve" y="406.2234" x="528.1504" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_592">##</text>
+  <text xml:space="preserve" y="264.2235" x="534.8168" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_593">##</text>
+  <text xml:space="preserve" y="376.8902" x="454.817" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_594">##</text>
+  <text xml:space="preserve" y="354.2234" x="454.1505" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_595">##</text>
+    <rect height="15.3334" width="47.3334" y="272.56" x="517.92" stroke-width="0.8" stroke="#000000" fill="#999999" id="svg_597"/>
+    <text xml:space="preserve" y="285.5567" x="538.8173" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="normal" font-size="11" font-family="serif" id="svg_598">二次风门</text>
+  <text xml:space="preserve" y="98.395" x="826.8" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_599" data-name="607PT19" data-cfg="eyJ1bml0IjoiUGEifQ==">##</text>
+  <text xml:space="preserve" y="153.995" x="829.2" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_600" data-name="607PCV01P" data-cfg="eyJ1bml0IjoiJSJ9">##</text>
+  <text xml:space="preserve" y="280.1083" x="905.8499" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_601">引风机B</text>
+  <text xml:space="preserve" y="216.395" x="825.4668" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_602" data-name="607PT19" data-cfg="eyJ1bml0IjoiUGEifQ==">##</text>
+  <text xml:space="preserve" y="271.995" x="827.8667" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_604" data-name="607PCV02P" data-cfg="eyJ1bml0IjoiJSJ9">##</text>
+  <text xml:space="preserve" y="300.5084" x="809.1667" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_605" data-name="606TE06" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="319.175" x="809.5" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_607" data-name="606PT08" data-cfg="eyJ1bml0IjoiS1BhIn0=">##</text>
+  <text xml:space="preserve" y="337.8417" x="1015.6666" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_610" data-name="606FCV01P" data-cfg="eyJ1bml0IjoiJSJ9">##</text>
+  <text data-cfg="eyJ1bml0IjoiJSJ9" data-name="606FCV02P" xml:space="preserve" y="407.675" x="1013.9999" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_611">##</text>
+  <text xml:space="preserve" y="381.3417" x="1014.9999" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_612" data-name="606TE06a" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="462.0084" x="1013.6666" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_614">##</text>
+  <text data-cfg="eyJ1bml0Ijoi4oSDIn0=" data-name="606TE07" xml:space="preserve" y="469.3418" x="812.3335" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_615">##</text>
+    <g id="svg_358">
+      <rect height="16" width="16" y="350.203" x="870.072" stroke-width="0.6" stroke="#000000" fill="#999999" id="svg_635"/>
+      <text xml:space="preserve" y="363.2006" x="877.4067" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_641">M</text>
+    </g>
+    <g id="svg_368">
+      <rect height="16" width="16" y="425.203" x="867.072" stroke-width="0.6" stroke="#000000" fill="#999999" id="svg_412"/>
+      <text xml:space="preserve" y="438.2006" x="874.4067" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_414">M</text>
+    </g>
+    <text data-cfg="eyJ1bml0IjoiQSJ9" data-name="606N02I1" xml:space="preserve" y="407.175" x="872.6667" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_540">##</text>
+  <text xml:space="preserve" y="331.175" x="873.6667" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_626" data-name="606N01I1" data-cfg="eyJ1bml0IjoiQSJ9">##</text>
+  <text xml:space="preserve" y="631.008333" x="793.833333" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_616" data-name="606PT63" data-cfg="eyJ1bml0IjoiS1BhIn0=">##</text>
+    <g id="svg_624">
+      <rect height="16" width="16" y="518.203" x="865.072" stroke-width="0.6" stroke="#000000" fill="#999999" id="svg_625"/>
+      <text xml:space="preserve" y="531.2006" x="872.4067" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_633">M</text>
+    </g>
+    <g id="svg_649">
+      <rect height="16" width="16" y="600.869" x="867.738" stroke-width="0.6" stroke="#000000" fill="#999999" id="svg_651"/>
+      <text xml:space="preserve" y="613.8673" x="875.0734" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif" id="svg_652">M</text>
+    </g>
+    <text id="svg_550" xml:space="preserve" y="17.7656" x="194.9375" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="Serif">MW</text>
+  <text stroke="#000000" xml:space="preserve" y="16.432266" x="345.270839" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_519">mm</text>
+  <text stroke="#000000" xml:space="preserve" y="19.098932" x="503.937501" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_520"/>
+  <text stroke="#000000" xml:space="preserve" y="20.010391" x="504.166668" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_521">MPa</text>
+  <text xml:space="preserve" y="18.0156" x="660.437501" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_522">t/h</text>
+  <text xml:space="preserve" y="16.682265" x="836.437495" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_523">t/h</text>
+  <text xml:space="preserve" y="20.4531" x="1008.75" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_551"/>
+  <text xml:space="preserve" y="20.010392" x="1012.156241" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_558">Nm3/h</text>
+  <text xml:space="preserve" y="44.432266" x="198.9375" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="Serif" id="svg_573">KPa</text>
+  <text stroke="#000000" xml:space="preserve" y="45.765599" x="345.270839" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_581">℃</text>
+  <text stroke="#000000" xml:space="preserve" y="45.765597" x="505.270843" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_588">℃</text>
+  <text stroke="#000000" xml:space="preserve" y="45.765596" x="662.604181" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_596">℃</text>
+  <text stroke="#000000" xml:space="preserve" y="45.765596" x="837.270847" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_603">℃</text>
+  <text stroke="#000000" xml:space="preserve" y="44.432262" x="1011.937513" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_613">mm</text>
+  <text stroke="#000000" xml:space="preserve" y="77.765595" x="89.270825" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_617">mm</text>
+  <text stroke="#000000" xml:space="preserve" y="153.765596" x="63.937505" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_643">℃</text>
+  <text stroke="#000000" xml:space="preserve" y="199.098928" x="63.937505" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_653">℃</text>
+  <text stroke="#000000" xml:space="preserve" y="245.765594" x="62.604171" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_661">℃</text>
+  <text stroke="#000000" xml:space="preserve" y="292.43226" x="63.937504" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_662">℃</text>
+  <text stroke="#000000" xml:space="preserve" y="339.098926" x="65.270836" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_667">℃</text>
+  <text stroke="#000000" xml:space="preserve" y="384.432258" x="65.270835" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_668">℃</text>
+  <text xml:space="preserve" y="156.432262" x="153.270837" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_669" stroke="#000000">℃</text>
+  <text xml:space="preserve" y="290.263333" x="119.668366" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_670" data-name="613TE10" data-cfg="eyJ1bml0Ijoi4oSDIn0=">##</text>
+  <text xml:space="preserve" y="200.432261" x="155.937504" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_693">℃</text>
+  <text xml:space="preserve" y="244.432261" x="157.270837" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_695">℃</text>
+  <text xml:space="preserve" y="291.098927" x="159.937503" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_696">℃</text>
+  <text xml:space="preserve" y="339.098927" x="162.604168" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_697">℃</text>
+  <text xml:space="preserve" y="383.098925" x="165.270834" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_698">℃</text>
+  <text xml:space="preserve" y="88.432261" x="231.937505" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_699">℃</text>
+  <text xml:space="preserve" y="128.432263" x="289.270838" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_700">℃</text>
+  <text xml:space="preserve" y="128.43226" x="390.604168" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_701">℃</text>
+  <text id="svg_328" xml:space="preserve" y="172.432261" x="298.604171" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">Pa</text>
+  <text id="svg_466" xml:space="preserve" y="173.765593" x="390.60417" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">Pa</text>
+  <text xml:space="preserve" y="212.43226" x="293.270837" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_77">%</text>
+  <text xml:space="preserve" y="213.765594" x="390.60417" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_348">%</text>
+  <text xml:space="preserve" y="277.765591" x="301.270837" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_468">KPa</text>
+  <text xml:space="preserve" y="277.765591" x="393.270837" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_545">KPa</text>
+  <text xml:space="preserve" y="325.765589" x="301.270838" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_546">KPa</text>
+  <text xml:space="preserve" y="324.432255" x="391.937506" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_578" stroke="#000000">KPa</text>
+  <text xml:space="preserve" y="364.43226" x="299.937501" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_671">℃</text>
+  <text xml:space="preserve" y="363.098925" x="387.937503" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_672">℃</text>
+  <text xml:space="preserve" y="387.098924" x="299.937502" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_681" stroke="#000000">℃</text>
+  <text xml:space="preserve" y="387.098924" x="386.60417" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_685">℃</text>
+  <text xml:space="preserve" y="408.432257" x="306.60417" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_692">KPa</text>
+  <text xml:space="preserve" y="407.098924" x="383.937502" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_702">KPa</text>
+  <text xml:space="preserve" y="429.765591" x="303.9375" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_703">℃</text>
+  <text xml:space="preserve" y="427.098924" x="378.604167" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_704">℃</text>
+  <text xml:space="preserve" y="128.432262" x="467.937504" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_705">Pa</text>
+  <text xml:space="preserve" y="157.765596" x="469.270843" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_706">℃</text>
+  <text xml:space="preserve" y="183.098921" x="467.937502" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_708">KPa</text>
+  <text xml:space="preserve" y="211.09892" x="467.937502" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_709">KPa</text>
+  <text id="svg_75" xml:space="preserve" y="153.765596" x="528.270843" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">℃</text>
+  <text id="svg_484" xml:space="preserve" y="128.432262" x="529.937504" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">Pa</text>
+  <text id="svg_485" xml:space="preserve" y="183.098921" x="529.937502" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">KPa</text>
+  <text id="svg_511" xml:space="preserve" y="211.098921" x="529.937502" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">KPa</text>
+  <text id="svg_564" xml:space="preserve" y="237.765596" x="461.270843" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">℃</text>
+  <text id="svg_710" xml:space="preserve" y="236.765596" x="529.270843" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">℃</text>
+  <text id="svg_711" xml:space="preserve" y="125.098921" x="640.937502" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">KPa</text>
+  <text id="svg_713" xml:space="preserve" y="126.265596" x="715.020843" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">℃</text>
+  <text xml:space="preserve" y="169.515588" x="639.854165" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_584">KPa</text>
+  <text xml:space="preserve" y="224.015596" x="713.770843" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_585">℃</text>
+  <text xml:space="preserve" y="171.015596" x="715.020843" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_619">℃</text>
+  <text xml:space="preserve" y="222.515588" x="642.354165" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_621">KPa</text>
+  <text xml:space="preserve" y="270.765588" x="642.104165" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_623">KPa</text>
+  <text xml:space="preserve" y="273.015596" x="713.770843" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_676">℃</text>
+  <text xml:space="preserve" y="323.765588" x="643.604165" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_678">KPa</text>
+  <text xml:space="preserve" y="325.765596" x="713.270843" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_680">℃</text>
+  <text xml:space="preserve" y="365.93226" x="644.270837" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_683">%</text>
+  <text xml:space="preserve" y="366.43226" x="715.270837" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_684">%</text>
+  <text xml:space="preserve" y="99.182262" x="856.937504" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_690">Pa</text>
+  <text xml:space="preserve" y="99.182262" x="946.187504" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_714">A</text>
+  <text xml:space="preserve" y="171.015596" x="980.520843" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_715">℃</text>
+  <text xml:space="preserve" y="147.932262" x="979.937504" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_716">Pa</text>
+  <text xml:space="preserve" y="154.43226" x="855.770837" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_718">%</text>
+  <text xml:space="preserve" y="216.932262" x="859.187504" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_719">Pa</text>
+  <text xml:space="preserve" y="220.682262" x="948.437504" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_720">A</text>
+  <text xml:space="preserve" y="287.265596" x="1000.020843" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_721">℃</text>
+  <text xml:space="preserve" y="267.182262" x="1000.187504" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_723">Pa</text>
+  <text xml:space="preserve" y="272.18226" x="858.020837" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_724">%</text>
+  <text xml:space="preserve" y="330.932262" x="904.187504" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_725">A</text>
+  <text xml:space="preserve" y="331.682262" x="967.187504" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_726">A</text>
+  <text xml:space="preserve" y="337.43226" x="1040.270837" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_728">%</text>
+  <text id="svg_541" xml:space="preserve" y="407.932262" x="904.187504" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">A</text>
+  <text id="svg_632" xml:space="preserve" y="408.682262" x="969.187504" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">A</text>
+  <text id="svg_688" xml:space="preserve" y="410.43226" x="1040.270837" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">%</text>
+  <text id="svg_694" xml:space="preserve" y="381.43226" x="1040.270837" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">%</text>
+  <text id="svg_729" xml:space="preserve" y="463.43226" x="1043.270837" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">%</text>
+  <text id="svg_730" xml:space="preserve" y="301.18226" x="844.020837" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">%</text>
+  <text id="svg_731" xml:space="preserve" y="321.18226" x="844.020837" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">%</text>
+  <text id="svg_733" xml:space="preserve" y="549.18226" x="1043.020837" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">%</text>
+  <text id="svg_734" xml:space="preserve" y="507.18226" x="1040.020837" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">%</text>
+  <text id="svg_735" xml:space="preserve" y="448.765588" x="848.604165" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">KPa</text>
+  <text id="svg_736" xml:space="preserve" y="471.265596" x="848.020843" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">℃</text>
+  <text id="svg_738" data-cfg="eyJ1bml0IjoiQSJ9" data-name="dianqi-35" xml:space="preserve" y="501.675" x="940.3333" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif">##</text>
+  <text id="svg_739" data-cfg="eyJ1bml0IjoiJSJ9" data-name="606FCV02P" xml:space="preserve" y="504.675" x="1012.9999" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif">##</text>
+  <text id="svg_740" xml:space="preserve" y="549.0084" x="1012.6666" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif">##</text>
+  <text id="svg_741" data-cfg="eyJ1bml0IjoiQSJ9" data-name="606N02I1" xml:space="preserve" y="500.175" x="872.6667" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif">##</text>
+  <text id="svg_743" xml:space="preserve" y="500.932262" x="906.187504" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">A</text>
+  <text id="svg_744" xml:space="preserve" y="500.932262" x="968.187504" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">A</text>
+  <text id="svg_745" xml:space="preserve" y="632.18226" x="1040.020837" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">%</text>
+  <text id="svg_746" xml:space="preserve" y="590.18226" x="1037.020837" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">%</text>
+  <text id="svg_748" data-cfg="eyJ1bml0IjoiQSJ9" data-name="dianqi-35" xml:space="preserve" y="584.675" x="937.3333" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="13" font-family="serif">##</text>
+  <text id="svg_749" data-cfg="eyJ1bml0IjoiJSJ9" data-name="606FCV02P" xml:space="preserve" y="587.675" x="1009.9999" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif">##</text>
+  <text id="svg_750" xml:space="preserve" y="632.0084" x="1009.6666" text-anchor="middle" stroke-width="0" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif">##</text>
+  <text id="svg_751" data-cfg="eyJ1bml0IjoiQSJ9" data-name="606N02I1" xml:space="preserve" y="583.175" x="869.6667" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif">##</text>
+  <text id="svg_753" xml:space="preserve" y="583.932262" x="903.187504" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">A</text>
+  <text id="svg_754" xml:space="preserve" y="583.932262" x="965.187504" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">A</text>
+  <text stroke="#000000" id="svg_755" xml:space="preserve" y="535.765588" x="297.604165" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif">RPM/M</text>
+  <text id="svg_756" stroke="#000000" xml:space="preserve" y="534.765588" x="448.604165" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif">RPM/M</text>
+  <text id="svg_757" stroke="#000000" xml:space="preserve" y="534.765588" x="604.604165" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif">RPM/M</text>
+  <text id="svg_758" stroke="#000000" xml:space="preserve" y="533.765588" x="745.604165" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif">RPM/M</text>
+  <text id="svg_759" stroke="#000000" xml:space="preserve" y="626.765588" x="300.604165" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif">RPM/M</text>
+  <text data-cfg="eyJ1bml0IjoiUlBNL00ifQ==" data-name="604N11N" id="svg_761" xml:space="preserve" y="627.8901" x="393.1834" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif">##</text>
+  <text id="svg_762" stroke="#000000" xml:space="preserve" y="627.765588" x="448.604165" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif">RPM/M</text>
+  <text data-cfg="eyJ1bml0IjoiUlBNL00ifQ==" data-name="604N13N" id="svg_763" xml:space="preserve" y="626.8901" x="548.1834" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif">##</text>
+  <text id="svg_764" stroke="#000000" xml:space="preserve" y="626.765588" x="606.604165" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif">RPM/M</text>
+  <text data-cfg="eyJ1bml0IjoiUlBNL00ifQ==" data-name="604N15N" id="svg_765" xml:space="preserve" y="628.8901" x="687.1834" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" stroke="#000000" fill="#000000" font-weight="bold" font-size="12" font-family="serif">##</text>
+  <text id="svg_766" stroke="#000000" xml:space="preserve" y="627.765588" x="746.604165" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif">RPM/M</text>
+  <text id="svg_4" xml:space="preserve" y="478.18226" x="49.020837" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">%</text>
+  <text id="svg_495" xml:space="preserve" y="541.18226" x="45.020837" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">%</text>
+  <text id="svg_496" xml:space="preserve" y="604.515593" x="43.020837" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">%</text>
+  <text id="svg_498" xml:space="preserve" y="484.932262" x="114.187504" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">A</text>
+  <text id="svg_524" xml:space="preserve" y="538.932262" x="116.187504" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">A</text>
+  <text id="svg_525" xml:space="preserve" y="602.598929" x="115.187504" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">A</text>
+  <text id="svg_527" xml:space="preserve" y="521.098924" x="183.937502" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">KPa</text>
+  <text id="svg_528" xml:space="preserve" y="584.098924" x="185.937502" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">KPa</text>
+  <text id="svg_529" xml:space="preserve" y="643.098924" x="192.937502" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000">KPa</text>
+  <text stroke="#000000" xml:space="preserve" y="87.098929" x="455.937519" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_373">℃</text>
+  <text stroke="#000000" xml:space="preserve" y="92.432261" x="545.270853" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" id="svg_413">℃</text>
+  <text xml:space="preserve" y="492.765587" x="837.937499" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_84">KPa</text>
+  <text xml:space="preserve" y="630.098919" x="835.270832" text-anchor="middle" stroke-width="0" stroke-linejoin="null" stroke-linecap="null" stroke-dasharray="null" fill="#000000" font-weight="bold" font-size="13" font-family="serif" stroke="#000000" id="svg_85">KPa</text>
+  </g>
+  <defs>
+    <linearGradient y1="1" x1="1" id="svg_38">
+      <stop offset="0" stop-color="#333333"/>
+      <stop offset="0.45574" stop-opacity="0.99609" stop-color="#cccccc"/>
+      <stop offset="1" stop-opacity="0.99609" stop-color="#333333"/>
+    </linearGradient>
+    <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="gridpattern">
+      <image height="100" width="100" y="0" x="0" id="svg_25"/>
+    </pattern>
+    <linearGradient y2="0" x2="1" y1="1" x1="1" id="svg_74">
+      <stop offset="0.01824" stop-opacity="0.99609" stop-color="#4c4c4c"/>
+      <stop offset="0.37762" stop-opacity="0.99609" stop-color="#cccccc"/>
+      <stop offset="0.62371" stop-opacity="0.99609" stop-color="#b2b2b2"/>
+      <stop offset="0.98309" stop-color="#333333"/>
+    </linearGradient>
+    <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="svg_150">
+      <image height="100" width="100" y="0" x="0" id="svg_151"/>
+    </pattern>
+    <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="svg_173">
+      <image height="100" width="100" y="0" x="0" id="svg_174"/>
+    </pattern>
+    <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="svg_169">
+      <image height="100" width="100" y="0" x="0" id="svg_170"/>
+    </pattern>
+    <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="svg_191">
+      <image height="100" width="100" y="0" x="0" id="svg_192"/>
+    </pattern>
+    <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="svg_187">
+      <image height="100" width="100" y="0" x="0" id="svg_188"/>
+    </pattern>
+    <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="svg_183">
+      <image height="100" width="100" y="0" x="0" id="svg_184"/>
+    </pattern>
+    <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="svg_179">
+      <image height="100" width="100" y="0" x="0" id="svg_180"/>
+    </pattern>
+    <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="svg_225">
+      <image height="100" width="100" y="0" x="0" id="svg_226"/>
+    </pattern>
+    <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="svg_221">
+      <image height="100" width="100" y="0" x="0" id="svg_222"/>
+    </pattern>
+    <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="svg_217">
+      <image height="100" width="100" y="0" x="0" id="svg_218"/>
+    </pattern>
+    <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="svg_213">
+      <image height="100" width="100" y="0" x="0" id="svg_214"/>
+    </pattern>
+    <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="svg_209">
+      <image height="100" width="100" y="0" x="0" id="svg_210"/>
+    </pattern>
+    <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="svg_205">
+      <image height="100" width="100" y="0" x="0" id="svg_206"/>
+    </pattern>
+    <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="svg_201">
+      <image height="100" width="100" y="0" x="0" id="svg_202"/>
+    </pattern>
+    <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="svg_197">
+      <image height="100" width="100" y="0" x="0" id="svg_198"/>
+    </pattern>
+  </defs>
+</svg>

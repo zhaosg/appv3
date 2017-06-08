@@ -24,6 +24,7 @@ import {PhotoViewer} from '@ionic-native/photo-viewer';
 import {Badge} from '@ionic-native/badge';
 import {GraphPage} from "../pages/graph/graph";
 import {ChartPage} from "../pages/chart/chart";
+import {ScreenOrientation} from '@ionic-native/screen-orientation';
 
 @NgModule({
   declarations: [
@@ -58,7 +59,7 @@ import {ChartPage} from "../pages/chart/chart";
   providers: [
     StatusBar, SplashScreen, Camera, BarcodeScanner, NativeService, LocalNotifications,//native服务
     HttpService, ApiService, //restfull或http服务
-    AppVersion, PhotoViewer,Badge,
+    AppVersion, PhotoViewer, Badge, ScreenOrientation,
     {provide: ErrorHandler, useClass: IonicErrorHandler}
   ]
 })
